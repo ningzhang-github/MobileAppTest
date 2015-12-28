@@ -1,0 +1,1797 @@
+
+Note: log switch off, only log_main and log_events will have logs!
+--------- beginning of /dev/log/main
+12-20 14:33:55.450 20248 32165 I System.out: name=com.huawei.floatMms  versioncode=1
+12-20 14:33:55.460 20248 32165 I System.out: name=com.android.defcontainer  versioncode=19
+12-20 14:33:55.470 20248 32165 I System.out: name=com.tencent.mm  versioncode=620
+12-20 14:33:55.480 20248 32165 I System.out: name=com.example.android.notepad  versioncode=9
+12-20 14:33:55.480 20248 32165 I System.out: name=com.UCMobile  versioncode=601
+12-20 14:33:55.500 20248 32165 I System.out: name=jp.co.optim.oruhuwe01  versioncode=96
+12-20 14:33:55.510 20248 32165 I System.out: name=com.android.contacts  versioncode=125
+12-20 14:33:55.520 20248 32165 I System.out: name=com.huawei.wifihotspot  versioncode=52037
+12-20 14:33:55.530 20248 32165 I System.out: name=eu.chainfire.supersu.pro  versioncode=100
+12-20 14:33:55.540 20248 32165 I System.out: name=com.huawei.hwid  versioncode=1218
+12-20 14:33:55.550 20248 32165 I System.out: name=com.huawei.mmitest2  versioncode=1
+12-20 14:33:55.560 20248 32165 I System.out: name=com.android.phone  versioncode=19
+12-20 14:33:55.580 32153 32153 E HwOUC   : [main-1]method invoke failed: com.huawei.pad.Product(/HwOucUtility.java:444)
+12-20 14:33:55.580 20248 32165 I System.out: name=com.android.calculator2  versioncode=19
+12-20 14:33:55.580 32153 32153 I HwOUC   : [main-1]isTablet() = false(/HwOucUtility.java:446)
+12-20 14:33:55.590 20248 32165 I System.out: name=com.huawei.phoneservice  versioncode=131010
+12-20 14:33:55.600 20248 32165 I System.out: name=com.huawei.android.airsharingcast  versioncode=2
+12-20 14:33:55.600 28772 28772 I HwSystemManager: SavingSettingUtil:setAlarm and high_level_standard is 10 msg_send_interval is 240 count_frequency is 60 dangerous_level_standard is 25 dangerous_current_level is 30 min_interval_time is 3 average_current_fg is 350 count_frequency_fg is 5 app_show_level is 1
+12-20 14:33:55.610 20248 32165 I System.out: name=com.android.htmlviewer  versioncode=19
+12-20 14:33:55.620 20248 32165 I System.out: name=com.chinaunicom.deviceregister  versioncode=2
+12-20 14:33:55.630 20248 32165 I System.out: name=com.huawei.android.WeatherWallpaper  versioncode=50034
+12-20 14:33:55.640 20248 32165 I System.out: name=com.google.android.gsf.login  versioncode=19
+12-20 14:33:55.660  1817 32174 E PresentFileUpdater: update -- parser exception: file not found
+12-20 14:33:55.680 20248 32165 I System.out: name=com.example.downloados  versioncode=1
+12-20 14:33:55.690 20248 32165 I System.out: name=com.screenovate.server.internal  versioncode=1
+12-20 14:33:55.700 20248 32165 I System.out: name=com.android.providers.calendar  versioncode=19
+12-20 14:33:55.720 20248 32165 I System.out: name=com.android.bluetooth  versioncode=19
+12-20 14:33:55.730 20248 32165 I System.out: name=com.huawei.bluetooth  versioncode=17
+12-20 14:33:55.740 20248 32165 I System.out: name=com.android.calendar  versioncode=6
+12-20 14:33:55.750 20248 32165 I System.out: name=com.huawei.smartpower  versioncode=205025
+12-20 14:33:55.760 32153 32173 I HwLogStatisticA: network is not roaming
+12-20 14:33:55.770 20248 32165 I System.out: name=com.android.browser  versioncode=19
+12-20 14:33:55.770 20248 32165 I System.out: name=com.qihoo360.mobilesafe  versioncode=237
+12-20 14:33:55.780 20248 32165 I System.out: name=com.android.huawei.countlapsetime  versioncode=1
+12-20 14:33:55.800 20248 32165 I System.out: name=com.vlife.huawei.wallpaper  versioncode=362
+12-20 14:33:55.810 20248 32165 I System.out: name=com.android.onetimeinitializer  versioncode=19
+12-20 14:33:55.820 20248 32165 I System.out: name=com.huawei.arnavigation  versioncode=1
+12-20 14:33:55.840 20248 32165 I System.out: name=com.android.providers.downloads.ui  versioncode=19
+12-20 14:33:55.860 20248 32165 I System.out: name=com.android.documentsui  versioncode=19
+12-20 14:33:55.870 20248 32165 I System.out: name=com.android.sharedstoragebackup  versioncode=19
+12-20 14:33:55.880 28772 28772 I HwSystemManager: BootBroadcastReceiver:======  notificationShowJudger begin =======
+12-20 14:33:55.880 28772 28772 I HwSystemManager: BootBroadcastReceiver:new appConsumption size is 8
+12-20 14:33:55.880 28772 28772 I HwSystemManager: BootBroadcastReceiver:old appConsumption is {lastNotifyTime=1450517698008}
+12-20 14:33:55.880 28772 28772 I HwSystemManager: BootBroadcastReceiver:interval_time_unit is 60000
+12-20 14:33:55.880 28772 28772 I HwSystemManager: BootBroadcastReceiver:intervalHour is 240
+12-20 14:33:55.880 28772 28772 I HwSystemManager: BootBroadcastReceiver:mAhValue is 10
+12-20 14:33:55.880 28772 28772 I HwSystemManager: BootBroadcastReceiver:mNowTime is 1450593235883
+12-20 14:33:55.880 28772 28772 I HwSystemManager: BootBroadcastReceiver:mLastNotifyTime is 1450517698008
+12-20 14:33:55.880 28772 28772 I HwSystemManager: BootBroadcastReceiver:uap.uid is 10008
+12-20 14:33:55.880 28772 28772 I HwSystemManager: BootBroadcastReceiver:uap.power is 763.8199999999999
+12-20 14:33:55.880 28772 28772 I HwSystemManager: BootBroadcastReceiver:isOldContain is false
+12-20 14:33:55.880 28772 28772 I HwSystemManager: BootBroadcastReceiver:is gap time allowed ? true
+12-20 14:33:55.880 28772 28772 I HwSystemManager: BootBroadcastReceiver:uap.uid is 10100
+12-20 14:33:55.880 28772 28772 I HwSystemManager: BootBroadcastReceiver:uap.power is 3471.4640000000004
+12-20 14:33:55.880 28772 28772 I HwSystemManager: BootBroadcastReceiver:isOldContain is false
+12-20 14:33:55.880 28772 28772 I HwSystemManager: BootBroadcastReceiver:is gap time allowed ? true
+12-20 14:33:55.880 28772 28772 I HwSystemManager: BootBroadcastReceiver:uap.uid is 10103
+12-20 14:33:55.880 28772 28772 I HwSystemManager: BootBroadcastReceiver:uap.power is 1324.6
+12-20 14:33:55.880 28772 28772 I HwSystemManager: BootBroadcastReceiver:isOldContain is false
+12-20 14:33:55.880 28772 28772 I HwSystemManager: BootBroadcastReceiver:is gap time allowed ? true
+12-20 14:33:55.880 28772 28772 I HwSystemManager: BootBroadcastReceiver:uap.uid is 10172
+12-20 14:33:55.880 28772 28772 I HwSystemManager: BootBroadcastReceiver:uap.power is 7051.71
+12-20 14:33:55.880 28772 28772 I HwSystemManager: BootBroadcastReceiver:isOldContain is false
+12-20 14:33:55.880 28772 28772 I HwSystemManager: BootBroadcastReceiver:is gap time allowed ? true
+12-20 14:33:55.880 28772 28772 I HwSystemManager: BootBroadcastReceiver:uap.uid is 10192
+12-20 14:33:55.880 28772 28772 I HwSystemManager: BootBroadcastReceiver:uap.power is 4170.08
+12-20 14:33:55.880 28772 28772 I HwSystemManager: BootBroadcastReceiver:isOldContain is false
+12-20 14:33:55.880 28772 28772 I HwSystemManager: BootBroadcastReceiver:is gap time allowed ? true
+12-20 14:33:55.880 28772 28772 I HwSystemManager: BootBroadcastReceiver:uap.uid is 10194
+12-20 14:33:55.880 28772 28772 I HwSystemManager: BootBroadcastReceiver:uap.power is 867.8299999999999
+12-20 14:33:55.880 28772 28772 I HwSystemManager: BootBroadcastReceiver:isOldContain is false
+12-20 14:33:55.880 28772 28772 I HwSystemManager: BootBroadcastReceiver:is gap time allowed ? true
+12-20 14:33:55.880 28772 28772 I HwSystemManager: BootBroadcastReceiver:uap.uid is 10209
+12-20 14:33:55.880 28772 28772 I HwSystemManager: BootBroadcastReceiver:uap.power is 8694.78
+12-20 14:33:55.880 28772 28772 I HwSystemManager: BootBroadcastReceiver:isOldContain is false
+12-20 14:33:55.880 28772 28772 I HwSystemManager: BootBroadcastReceiver:is gap time allowed ? true
+12-20 14:33:55.880 28772 28772 I HwSystemManager: BootBroadcastReceiver:uap.uid is 10225
+12-20 14:33:55.880 20248 32165 I System.out: name=com.android.vpndialogs  versioncode=19
+12-20 14:33:55.890 28772 28772 I HwSystemManager: BootBroadcastReceiver:uap.power is 2772.45
+12-20 14:33:55.890 28772 28772 I HwSystemManager: BootBroadcastReceiver:isOldContain is false
+12-20 14:33:55.890 28772 28772 I HwSystemManager: BootBroadcastReceiver:is gap time allowed ? true
+12-20 14:33:55.900 20248 32165 I System.out: name=com.android.mms  versioncode=19
+12-20 14:33:55.910 20248 32165 I System.out: name=com.qihoo.appstore  versioncode=300030515
+12-20 14:33:55.920 20248 32165 I System.out: name=com.android.huawei.projectmenu  versioncode=1
+12-20 14:33:55.930 20248 32165 I System.out: name=com.android.providers.media  versioncode=700
+12-20 14:33:55.940 20248 32165 I System.out: name=com.huawei.flashlight  versioncode=1
+12-20 14:33:55.960 20248 32165 I System.out: name=com.huawei.android.pushagent  versioncode=2520
+12-20 14:33:55.970 20248 32165 I System.out: name=com.huawei.motionservice  versioncode=61304
+12-20 14:33:55.980 32153 32187 I Process : Sending signal. PID: 32153 SIG: 9
+12-20 14:33:55.980 20248 32165 I System.out: name=com.android.certinstaller  versioncode=19
+12-20 14:33:56.010 20248 32165 I System.out: name=com.huawei.hwstartupguide  versioncode=104
+12-20 14:33:56.030 20248 32165 I System.out: name=com.keramidas.TitaniumBackup  versioncode=369
+12-20 14:33:56.040 20248 32165 I System.out: name=com.google.android.gms  versioncode=4031536
+12-20 14:33:56.050 20248 32165 I System.out: name=com.infinit.wostore.ui  versioncode=502
+12-20 14:33:56.060 20248 32165 I System.out: name=com.huawei.android.globaldolbyeffect  versioncode=19
+12-20 14:33:56.070 20248 32165 I System.out: name=com.example.android  versioncode=1
+12-20 14:33:56.080 20248 32165 I System.out: name=com.android.dreams.phototable  versioncode=19
+12-20 14:33:56.090 20248 32165 I System.out: name=com.google.android.setupwizard  versioncode=130
+12-20 14:33:56.100 20248 32165 I System.out: name=com.android.videoeditor  versioncode=11
+12-20 14:33:56.110 20248 32165 I System.out: name=com.android.settings  versioncode=19
+12-20 14:33:56.120 20248 32165 I System.out: name=com.sinovatech.unicom.ui  versioncode=36
+12-20 14:33:56.130 20248 32165 I System.out: name=com.esbook.reader  versioncode=1024
+12-20 14:33:56.140 20248 32165 I System.out: name=com.huawei.systemmanager  versioncode=1
+12-20 14:33:56.150 20248 32165 I System.out: name=com.huawei.fans  versioncode=276
+12-20 14:33:56.200 20248 32165 I System.out: name=com.android.gallery3d  versioncode=40001
+12-20 14:33:56.210   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:33:56.220 20248 32165 I System.out: name=com.android.supl  versioncode=2
+12-20 14:33:56.230 20248 32165 I System.out: name=com.android.dolbymobileaudioeffect  versioncode=19
+12-20 14:33:56.240 20248 32165 I System.out: name=com.baidu.input_huawei  versioncode=47
+12-20 14:33:56.250 20248 32165 I System.out: name=com.android.musicvis  versioncode=19
+12-20 14:33:56.260 20248 32165 I System.out: name=com.android.exchange  versioncode=500060
+12-20 14:33:56.270 20248 32165 I System.out: name=com.android.wallpaper.livepicker  versioncode=19
+12-20 14:33:56.280 20248 32165 I System.out: name=com.huawei.android.hwouc  versioncode=9146
+12-20 14:33:56.290 20248 32165 I System.out: name=com.android.packageinstaller  versioncode=19
+12-20 14:33:56.310 20248 32165 I System.out: name=com.android.providers.telephony  versioncode=19
+12-20 14:33:56.320 20248 32165 I System.out: name=com.svox.pico  versioncode=1
+12-20 14:33:56.330 20248 32165 I System.out: name=com.huawei.mmifunction  versioncode=1
+12-20 14:33:56.430 20248 32165 I System.out: name=com.android.noisefield  versioncode=1
+12-20 14:33:56.450 20248 32165 I System.out: name=com.android.email  versioncode=500060
+12-20 14:33:56.560 20248 32165 I System.out: name=com.android.mediacenter  versioncode=405550
+12-20 14:33:56.600 20248 32165 I System.out: name=com.nuance.swype.emui  versioncode=25289
+12-20 14:33:56.740 20248 32165 I System.out: name=com.android.wallpapercropper  versioncode=19
+12-20 14:33:56.750 20248 32165 I System.out: name=com.android.location.fused  versioncode=19
+12-20 14:33:56.770 20248 32165 I System.out: name=com.android.backupconfirm  versioncode=19
+12-20 14:33:56.780 20248 32165 I System.out: name=com.tencent.android.qqdownloader  versioncode=5403129
+12-20 14:33:56.800 20248 32165 I System.out: name=com.android.magicsmoke  versioncode=19
+12-20 14:33:56.820 20248 32165 I System.out: name=com.android.providers.settings  versioncode=19
+12-20 14:33:56.830 20248 32165 I System.out: name=com.huawei.android.totemweather  versioncode=51083
+12-20 14:33:56.850 20248 32165 I System.out: name=com.netease.my.kkk2  versioncode=10320
+12-20 14:33:56.930 20248 32165 I System.out: name=com.android.providers.downloads  versioncode=19
+12-20 14:33:56.950 20248 32165 I System.out: name=com.android.phasebeam  versioncode=1
+12-20 14:33:56.970 20248 32165 I System.out: name=com.tencent.mtt  versioncode=601560
+12-20 14:33:57.000 20248 32165 I System.out: name=com.screenovate.server.internal.protocols  versioncode=1
+12-20 14:33:57.010 20248 32165 I System.out: name=com.android.soundrecorder  versioncode=6101
+12-20 14:33:57.040 20248 32165 I System.out: name=com.cootek.smartdialer_oem_module  versioncode=4600
+12-20 14:33:57.090 20248 32165 I System.out: name=com.huawei.android.ds  versioncode=3314003
+12-20 14:33:57.110 20248 32165 I System.out: name=com.rxnetworks.pgpsdownloader  versioncode=6
+12-20 14:33:57.130 20248 32165 I System.out: name=com.android.inputmethod.latin  versioncode=19
+12-20 14:33:57.150 20248 32165 I System.out: name=com.google.android.onetimeinitializer  versioncode=19
+12-20 14:33:57.170 20248 32165 I System.out: name=com.google.android.partnersetup  versioncode=19
+12-20 14:33:57.200 20248 32165 I System.out: name=com.huawei.android.gpms  versioncode=1
+12-20 14:33:57.220 20248 32165 I System.out: name=com.android.proxyhandler  versioncode=19
+12-20 14:33:57.250 20248 32165 I System.out: name=com.easou.androidhelper  versioncode=1431
+12-20 14:33:57.300 20248 32165 I System.out: name=com.huawei.KoBackup  versioncode=63105003
+12-20 14:33:57.320 20248 32165 I System.out: name=com.android.inputdevices  versioncode=19
+12-20 14:33:57.350 20248 32165 I System.out: name=com.android.wallpaper.holospiral  versioncode=19
+12-20 14:33:57.370 20248 32165 I System.out: name=com.google.android.feedback  versioncode=19
+12-20 14:33:57.410 20248 32165 I System.out: name=com.huawei.lcagent  versioncode=11006
+12-20 14:33:57.430 20248 32165 I System.out: name=com.android.stk  versioncode=19
+12-20 14:33:57.470 20248 32165 I System.out: name=com.huawei.omacp  versioncode=1
+12-20 14:33:57.500 20248 32165 I System.out: name=com.huawei.android.airsharingcastclient  versioncode=2
+12-20 14:33:57.530 20248 32165 I System.out: name=com.android.providers.userdictionary  versioncode=19
+12-20 14:33:57.560 20248 32165 I System.out: name=com.ezjoynetwork.cavemanstorychinabeta  versioncode=2
+12-20 14:33:57.590 20248 32165 I System.out: name=com.tencent.mobileqq  versioncode=264
+12-20 14:33:57.620 20248 32165 I System.out: name=com.android.pacprocessor  versioncode=19
+12-20 14:33:57.650 20248 32165 I System.out: name=com.huawei.android.temperaturemonitor2  versioncode=1
+12-20 14:33:57.670 20248 32165 I System.out: name=androidhwext  versioncode=19
+12-20 14:33:57.690 20248 32165 I System.out: name=com.android.galaxy4  versioncode=1
+12-20 14:33:57.720 20248 32165 I System.out: name=com.android.printspooler  versioncode=1
+12-20 14:33:57.760 20248 32165 I System.out: name=com.google.android.syncadapters.calendar  versioncode=16
+12-20 14:33:57.790 20248 32165 I System.out: name=com.huawei.android.thirdpartyapplicationsobserver  versioncode=1
+12-20 14:33:57.810 20248 32165 I System.out: name=android  versioncode=19
+12-20 14:33:57.830 20248 32165 I System.out: name=com.android.providers.contacts  versioncode=121
+12-20 14:33:57.860 20248 32165 I System.out: name=com.hw.sohu.newsclient.newswall  versioncode=1
+12-20 14:33:57.890 20248 32165 I System.out: name=com.chaozh.iReaderFree  versioncode=431
+12-20 14:33:58.070 20248 32165 I System.out: name=com.huawei.android.mewidget  versioncode=62029
+12-20 14:33:58.100 20248 32165 I System.out: name=com.huawei.android.apkbatchinstall  versioncode=103
+12-20 14:33:58.120 20248 32165 I System.out: name=com.baidu.map.location  versioncode=30
+12-20 14:33:58.150 20248 32165 I System.out: name=com.android.protips  versioncode=1
+12-20 14:33:58.180 20248 32165 I System.out: name=com.google.android.apps.uploader  versioncode=224000
+12-20 14:33:58.210 20248 32165 I System.out: name=com.android.externalstorage  versioncode=19
+12-20 14:33:58.240 20248 32165 I System.out: name=com.huawei.android.thememanager  versioncode=61081
+12-20 14:33:58.360 20248 32165 I System.out: name=com.huawei.ChnUnicomAutoReg  versioncode=1
+12-20 14:33:58.380 20248 32165 I System.out: name=com.android.dreams.basic  versioncode=19
+12-20 14:33:58.410 20248 32165 I System.out: name=com.sdu.didi.psnger  versioncode=96
+12-20 14:33:58.440 20248 32165 I System.out: name=com.pandadastudio.runningman  versioncode=14
+12-20 14:33:58.480 20248 32165 I System.out: name=com.hw.sohu.newsclient  versioncode=1
+12-20 14:33:58.510 20248 32165 I System.out: name=com.android.vending  versioncode=80240022
+12-20 14:33:58.620 20248 32165 I System.out: name=com.huawei.android.calendarwidget  versioncode=50063
+12-20 14:33:58.680 20248 32165 I System.out: name=com.huawei.android.FMRadio  versioncode=6101
+12-20 14:33:58.740   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:33:58.750 20248 32165 I System.out: name=com.android.systemui  versioncode=19
+12-20 14:33:58.800 20248 32165 I System.out: name=com.huawei.android.multiscreen  versioncode=1119
+12-20 14:33:58.830 20248 32165 I System.out: name=com.android.keychain  versioncode=19
+12-20 14:33:58.850 20248 32165 I System.out: name=com.huawei.vassistant  versioncode=23108
+12-20 14:33:59.130 20248 32165 I System.out: name=com.wandoujia.phoenix2  versioncode=8061
+12-20 14:33:59.170 20248 32165 I System.out: name=com.google.android.gm  versioncode=55008623
+12-20 14:33:59.210   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:33:59.270 20248 32165 I System.out: name=com.huawei.android.UnicomCustomApk  versioncode=1
+12-20 14:33:59.300 20248 32165 I System.out: name=com.android.smspush  versioncode=19
+12-20 14:33:59.330 20248 32165 I System.out: name=com.huawei.vdrive  versioncode=10127
+12-20 14:33:59.360 20248 32165 I System.out: name=com.android.wallpaper  versioncode=19
+12-20 14:33:59.400 20248 32165 I System.out: name=com.mt.mtxx.mtxx  versioncode=460
+12-20 14:33:59.470 20248 32165 I System.out: name=eu.chainfire.supersu  versioncode=249
+12-20 14:33:59.520 20248 32165 I System.out: name=com.google.android.syncadapters.bookmarks  versioncode=18
+12-20 14:33:59.540 20248 32165 I System.out: name=com.benbear.y3  versioncode=1
+12-20 14:33:59.570 20248 32165 I System.out: name=com.android.deskclock  versioncode=6101
+12-20 14:33:59.610 20248 32165 I System.out: name=com.huawei.appmarket  versioncode=6315106
+12-20 14:33:59.630 20248 32165 I System.out: name=com.google.android.gsf  versioncode=19
+12-20 14:33:59.670   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:33:59.690 20248 32165 I System.out: name=com.huawei.hidisk  versioncode=63103003
+12-20 14:33:59.770 20248 32165 I System.out: name=com.android.keyguard  versioncode=19
+12-20 14:33:59.810 20248 32165 I System.out: name=com.achievo.vipshop  versioncode=343
+12-20 14:33:59.870 20248 32165 I System.out: name=com.android.facelock  versioncode=19
+12-20 14:33:59.910 20248 32165 I System.out: name=com.qihoo.yunpan  versioncode=6327
+12-20 14:33:59.970 20248 32165 I System.out: name=com.android.shell  versioncode=19
+12-20 14:34:00.000 20248 32165 I System.out: name=com.huawei.android.dlna  versioncode=12654
+12-20 14:34:00.060   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:34:00.090 20248 32165 I System.out: name=com.tiantian.android.player.video  versioncode=1217
+12-20 14:34:00.150 20248 32165 I System.out: name=com.example.cc  versioncode=1
+12-20 14:34:00.190 20248 32165 I System.out: name=com.huawei.android.wfdft  versioncode=6008
+12-20 14:34:00.230 20248 32165 I System.out: name=com.google.android.syncadapters.contacts  versioncode=19
+12-20 14:34:00.250 20248 32165 I System.out: name=com.google.android.backup  versioncode=19
+12-20 14:34:00.270 20248 32165 I System.out: name=com.huawei.android.launcher  versioncode=62011
+12-20 14:34:00.690   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:34:01.470   574   697 W System.err: java.lang.IllegalArgumentException
+12-20 14:34:01.470   574   697 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:34:01.470   574   697 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:34:01.470   574   697 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:34:01.470   574   697 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:34:01.470   574   855 W System.err: java.lang.IllegalArgumentException
+12-20 14:34:01.470   574   855 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:34:01.470   574   855 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:34:01.470   574   855 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:34:01.470   574   855 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:34:01.470   574 10228 W System.err: java.lang.IllegalArgumentException
+12-20 14:34:01.470   574 10228 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:34:01.470   574 10228 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:34:01.480   574 10228 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:34:01.480   574 10228 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:34:01.480   574   857 W System.err: java.lang.IllegalArgumentException
+12-20 14:34:01.480   574   857 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:34:01.480   574   857 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:34:01.480   574   857 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:34:01.480   574   857 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:34:01.480   574   585 W System.err: java.lang.IllegalArgumentException
+12-20 14:34:01.480   574   585 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:34:01.480   574   585 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:34:01.480   574   585 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:34:01.480   574   585 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:34:01.480   574   834 W System.err: java.lang.IllegalArgumentException
+12-20 14:34:01.480   574   834 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:34:01.480   574   834 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:34:01.480   574   834 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:34:01.480   574   834 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:34:01.480   574   704 W System.err: java.lang.IllegalArgumentException
+12-20 14:34:01.480   574   704 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:34:01.480   574   704 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:34:01.480   574   704 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:34:01.480   574   704 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:34:01.480   574   875 W System.err: java.lang.IllegalArgumentException
+12-20 14:34:01.480   574   875 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:34:01.480   574   875 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:34:01.480   574   875 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:34:01.480   574   875 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:34:01.490   574   876 W System.err: java.lang.IllegalArgumentException
+12-20 14:34:01.490   574   876 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:34:01.490   574   876 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:34:01.490   574   876 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:34:01.490   574   876 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:34:01.490   574 10228 W System.err: java.lang.IllegalArgumentException
+12-20 14:34:01.490   574 10228 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:34:01.490   574 10228 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:34:01.490   574 10228 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:34:01.490   574 10228 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:34:01.500   574 16011 W System.err: java.lang.IllegalArgumentException
+12-20 14:34:01.500   574 16011 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:34:01.500   574 16011 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:34:01.500   574 16011 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:34:01.500   574 16011 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:34:01.500   574   704 W System.err: java.lang.IllegalArgumentException
+12-20 14:34:01.500   574   704 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:34:01.500   574   704 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:34:01.500   574   704 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:34:01.500   574   704 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:34:01.500   574   875 W System.err: java.lang.IllegalArgumentException
+12-20 14:34:01.500   574   875 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:34:01.500   574   875 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:34:01.500   574   875 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:34:01.500   574   875 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:34:01.610  1048  1377 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:34:01.610  1048  1377 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:34:01.610  1048  1377 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:34:01.690   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:34:01.700  1048  1177 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:34:01.710  1048  1177 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:34:01.710  1048  1177 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:34:01.730  1048  1059 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:34:01.730  1048  1059 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:34:01.730  1048  1059 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:34:01.910  1048  5991 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:34:01.920  1048  5991 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:34:01.920  1048  5991 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:34:02.000   574  9953 W System.err: java.lang.IllegalArgumentException
+12-20 14:34:02.000   574  9953 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:34:02.000   574  9953 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:34:02.000   574  9953 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:34:02.000   574  9953 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:34:02.000   574   704 W System.err: java.lang.IllegalArgumentException
+12-20 14:34:02.000   574   704 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:34:02.000   574   704 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:34:02.000   574   704 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:34:02.000   574   704 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:34:02.000   574   875 W System.err: java.lang.IllegalArgumentException
+12-20 14:34:02.000   574   875 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:34:02.000   574   875 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:34:02.000   574   875 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:34:02.000   574   875 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:34:02.000   574   585 W System.err: java.lang.IllegalArgumentException
+12-20 14:34:02.010   574   585 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:34:02.010   574   585 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:34:02.010   574   585 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:34:02.010   574   585 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:34:02.010   574   584 W System.err: java.lang.IllegalArgumentException
+12-20 14:34:02.010   574   584 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:34:02.010   574   584 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:34:02.010   574   584 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:34:02.010   574   584 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:34:02.010   574   876 W System.err: java.lang.IllegalArgumentException
+12-20 14:34:02.010   574   876 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:34:02.010   574   876 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:34:02.010   574   876 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:34:02.010   574   876 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:34:02.010   574   626 W System.err: java.lang.IllegalArgumentException
+12-20 14:34:02.010   574   626 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:34:02.010   574   626 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:34:02.010   574   626 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:34:02.010   574   626 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:34:02.010   574   835 W System.err: java.lang.IllegalArgumentException
+12-20 14:34:02.010   574   835 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:34:02.010   574   835 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:34:02.010   574   835 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:34:02.010   574   835 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:34:02.010   574   834 W System.err: java.lang.IllegalArgumentException
+12-20 14:34:02.010   574   834 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:34:02.010   574   834 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:34:02.010   574   834 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:34:02.010   574   834 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:34:02.010   574   857 W System.err: java.lang.IllegalArgumentException
+12-20 14:34:02.010   574   857 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:34:02.010   574   857 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:34:02.010   574   857 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:34:02.010   574   857 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:34:02.020   574   697 W System.err: java.lang.IllegalArgumentException
+12-20 14:34:02.020   574   697 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:34:02.020   574   697 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:34:02.020   574   697 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:34:02.020   574   697 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:34:02.020   574  8874 W System.err: java.lang.IllegalArgumentException
+12-20 14:34:02.020   574  8874 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:34:02.020   574  8874 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:34:02.020   574  8874 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:34:02.020   574  8874 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:34:02.020   574 16011 W System.err: java.lang.IllegalArgumentException
+12-20 14:34:02.020   574 16011 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:34:02.020   574 16011 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:34:02.020   574 16011 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:34:02.020   574 16011 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:34:02.220   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:34:02.690   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:34:04.190  1048  1177 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:34:04.190  1048  1177 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:34:04.190  1048  1177 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:34:04.240 32382 32382 I dalvikvm: Enabling JNI app bug workarounds for target SDK version 10...
+12-20 14:34:04.340 32382 32382 W dalvikvm: VFY: unable to resolve instance field 73
+12-20 14:34:04.340 32382 32382 W dalvikvm: VFY: unable to resolve instance field 73
+12-20 14:34:04.340 32382 32382 W dalvikvm: VFY: unable to resolve instance field 73
+12-20 14:34:04.340 32382 32382 I dalvikvm: DexOpt: unable to optimize instance field ref 0x0049 at 0x69 in Lcom/morgoo/droidplugin/c/b/dm;.b
+12-20 14:34:04.430 32382 32382 E dalvikvm: Could not find class 'android.app.ActivityManager$TaskDescription', referenced from method com.morgoo.droidplugin.c.b.ht.a
+12-20 14:34:04.430 32382 32382 W dalvikvm: VFY: unable to resolve new-instance 37 (Landroid/app/ActivityManager$TaskDescription;) in Lcom/morgoo/droidplugin/c/b/ht;
+12-20 14:34:04.430 32382 32382 E dalvikvm: Could not find class 'android.app.ActivityManager$TaskDescription', referenced from method com.morgoo.droidplugin.c.b.ht.a
+12-20 14:34:04.430 32382 32382 W dalvikvm: VFY: unable to resolve new-instance 37 (Landroid/app/ActivityManager$TaskDescription;) in Lcom/morgoo/droidplugin/c/b/ht;
+12-20 14:34:04.560 20248 32402 I MultiDex: VM with version 1.6.0 does not have multidex support
+12-20 14:34:04.650  1048  1156 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:34:04.650  1048  1156 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:34:04.650  1048  1156 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:34:04.840  1048  5991 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:34:04.840  1048  5991 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:34:04.840  1048  5991 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:34:04.840 32382 32393 W Settings: Setting android_id has moved from android.provider.Settings.System to android.provider.Settings.Secure, returning read-only value.
+12-20 14:34:05.230   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:34:07.670 32382 32425 I JMAIN   : m7434717c
+12-20 14:34:08.240   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:34:08.760   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:34:09.460   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:34:09.810   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:34:10.110   846   846 E TemperatureMonitor2: BatteryTemp=320
+12-20 14:34:10.110  1048  1048 E HwSystemManager: :ACTION_BATTERY_CHANGED pluged =2
+12-20 14:34:10.210   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:34:10.680 28405 28405 W AwContents: nativeOnDraw failed; clearing to background color.
+12-20 14:34:10.720   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:34:10.780 28405 28405 I chromium: [INFO:CONSOLE(0)] "Document was loaded from Application Cache with manifest http://mobads.baidu.com/ads/ads.appcache", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:34:10.780 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache Checking event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:34:10.780 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache Checking event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:34:10.780 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache Checking event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:34:10.780 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache Checking event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:34:11.010  1048  1379 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:34:11.010  1048  1379 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:34:11.010  1048  1379 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:34:11.010  1048  1177 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:34:11.020  1048  1177 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:34:11.020  1048  1177 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:34:11.020  1048  1377 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:34:11.020  1048  1377 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:34:11.020  1048  1377 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:34:11.040  1048  9574 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:34:11.040  1048  9574 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:34:11.040  1048  9574 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:34:11.050 28405 28602 I Mobads SDK:  Request_ID = a559cb1e0ebd4c9e56e21d11bfd75288; AppID = a9b34ae9; AdPlaceId = 
+12-20 14:34:11.050  1048  1379 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:34:11.050  1048  1379 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:34:11.050  1048  1379 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:34:11.060  1048  1177 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:34:11.060  1048  1177 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:34:11.060  1048  1177 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:34:11.080 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:34:11.080 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:34:11.080 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:34:11.080 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:34:11.170   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:34:11.260   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:34:11.510   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:34:11.660   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:34:12.210   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:34:13.240 20248 32472 I System.out: name=com.huawei.floatMms  versioncode=1
+12-20 14:34:13.250 20248 32472 I System.out: name=com.android.defcontainer  versioncode=19
+12-20 14:34:13.270 20248 32472 I System.out: name=com.tencent.mm  versioncode=620
+12-20 14:34:13.280 20248 32472 I System.out: name=com.example.android.notepad  versioncode=9
+12-20 14:34:13.290 20248 32472 I System.out: name=com.UCMobile  versioncode=601
+12-20 14:34:13.300 20248 32472 I System.out: name=jp.co.optim.oruhuwe01  versioncode=96
+12-20 14:34:13.310 20248 32472 I System.out: name=com.android.contacts  versioncode=125
+12-20 14:34:13.320 20248 32472 I System.out: name=com.huawei.wifihotspot  versioncode=52037
+12-20 14:34:13.330 20248 32472 I System.out: name=eu.chainfire.supersu.pro  versioncode=100
+12-20 14:34:13.350 20248 32472 I System.out: name=com.huawei.hwid  versioncode=1218
+12-20 14:34:13.360 20248 32472 I System.out: name=com.huawei.mmitest2  versioncode=1
+12-20 14:34:13.370 20248 32472 I System.out: name=com.android.phone  versioncode=19
+12-20 14:34:13.380 20248 32472 I System.out: name=com.android.calculator2  versioncode=19
+12-20 14:34:13.390 20248 32472 I System.out: name=com.huawei.phoneservice  versioncode=131010
+12-20 14:34:13.400 20248 32472 I System.out: name=com.huawei.android.airsharingcast  versioncode=2
+12-20 14:34:13.420 20248 32472 I System.out: name=com.android.htmlviewer  versioncode=19
+12-20 14:34:13.430 20248 32472 I System.out: name=com.chinaunicom.deviceregister  versioncode=2
+12-20 14:34:13.440 20248 32472 I System.out: name=com.huawei.android.WeatherWallpaper  versioncode=50034
+12-20 14:34:13.450 20248 32472 I System.out: name=com.google.android.gsf.login  versioncode=19
+12-20 14:34:13.470 20248 32472 I System.out: name=com.example.downloados  versioncode=1
+12-20 14:34:13.480 20248 32472 I System.out: name=com.screenovate.server.internal  versioncode=1
+12-20 14:34:13.500 20248 32472 I System.out: name=com.android.providers.calendar  versioncode=19
+12-20 14:34:13.510 20248 32472 I System.out: name=com.android.bluetooth  versioncode=19
+12-20 14:34:13.540 20248 32472 I System.out: name=com.huawei.bluetooth  versioncode=17
+12-20 14:34:13.550 20248 32472 I System.out: name=com.android.calendar  versioncode=6
+12-20 14:34:13.560 20248 32472 I System.out: name=com.huawei.smartpower  versioncode=205025
+12-20 14:34:13.570 20248 32472 I System.out: name=com.android.browser  versioncode=19
+12-20 14:34:13.580 20248 32472 I System.out: name=com.qihoo360.mobilesafe  versioncode=237
+12-20 14:34:13.610 20248 32472 I System.out: name=com.android.huawei.countlapsetime  versioncode=1
+12-20 14:34:13.630 20248 32472 I System.out: name=com.vlife.huawei.wallpaper  versioncode=362
+12-20 14:34:13.650 20248 32472 I System.out: name=com.android.onetimeinitializer  versioncode=19
+12-20 14:34:13.670 20248 32472 I System.out: name=com.huawei.arnavigation  versioncode=1
+12-20 14:34:13.680 20248 32472 I System.out: name=com.android.providers.downloads.ui  versioncode=19
+12-20 14:34:13.700 20248 32472 I System.out: name=com.android.documentsui  versioncode=19
+12-20 14:34:13.710 20248 32472 I System.out: name=com.android.sharedstoragebackup  versioncode=19
+12-20 14:34:13.740 20248 32472 I System.out: name=com.android.vpndialogs  versioncode=19
+12-20 14:34:13.750 20248 32472 I System.out: name=com.android.mms  versioncode=19
+12-20 14:34:13.780 20248 32472 I System.out: name=com.qihoo.appstore  versioncode=300030515
+12-20 14:34:13.800 20248 32472 I System.out: name=com.android.huawei.projectmenu  versioncode=1
+12-20 14:34:13.820 20248 32472 I System.out: name=com.android.providers.media  versioncode=700
+12-20 14:34:13.840 20248 32472 I System.out: name=com.huawei.flashlight  versioncode=1
+12-20 14:34:13.890 20248 32472 I System.out: name=com.huawei.android.pushagent  versioncode=2520
+12-20 14:34:13.910 20248 32472 I System.out: name=com.huawei.motionservice  versioncode=61304
+12-20 14:34:13.920 20248 32472 I System.out: name=com.android.certinstaller  versioncode=19
+12-20 14:34:13.930 20248 32472 I System.out: name=com.huawei.hwstartupguide  versioncode=104
+12-20 14:34:13.950 20248 32472 I System.out: name=com.keramidas.TitaniumBackup  versioncode=369
+12-20 14:34:13.960 20248 32472 I System.out: name=com.google.android.gms  versioncode=4031536
+12-20 14:34:13.970 20248 32472 I System.out: name=com.infinit.wostore.ui  versioncode=502
+12-20 14:34:13.980 20248 32472 I System.out: name=com.huawei.android.globaldolbyeffect  versioncode=19
+12-20 14:34:14.000 20248 32472 I System.out: name=com.example.android  versioncode=1
+12-20 14:34:14.010 20248 32472 I System.out: name=com.android.dreams.phototable  versioncode=19
+12-20 14:34:14.020 20248 32472 I System.out: name=com.google.android.setupwizard  versioncode=130
+12-20 14:34:14.030 20248 32472 I System.out: name=com.android.videoeditor  versioncode=11
+12-20 14:34:14.040 20248 32472 I System.out: name=com.android.settings  versioncode=19
+12-20 14:34:14.060 20248 32472 I System.out: name=com.sinovatech.unicom.ui  versioncode=36
+12-20 14:34:14.070 20248 32472 I System.out: name=com.esbook.reader  versioncode=1024
+12-20 14:34:14.080 20248 32472 I System.out: name=com.huawei.systemmanager  versioncode=1
+12-20 14:34:14.090 20248 32472 I System.out: name=com.huawei.fans  versioncode=276
+12-20 14:34:14.100 20248 32472 I System.out: name=com.android.gallery3d  versioncode=40001
+12-20 14:34:14.120 20248 32472 I System.out: name=com.android.supl  versioncode=2
+12-20 14:34:14.120 32477 32477 E memtrack: Couldn't load memtrack module (No such file or directory)
+12-20 14:34:14.120 32477 32477 E android.os.Debug: failed to load memtrack module: -2
+12-20 14:34:14.130 20248 32472 I System.out: name=com.android.dolbymobileaudioeffect  versioncode=19
+12-20 14:34:14.140 20248 32472 I System.out: name=com.baidu.input_huawei  versioncode=47
+12-20 14:34:14.160 20248 32472 I System.out: name=com.android.musicvis  versioncode=19
+12-20 14:34:14.170 20248 32472 I System.out: name=com.android.exchange  versioncode=500060
+12-20 14:34:14.180 20248 32472 I System.out: name=com.android.wallpaper.livepicker  versioncode=19
+12-20 14:34:14.180 32477 32477 I android_hardware_fm.cpp: ----Inside int register_android_hardware_fm_fmradio(JNIEnv*)----
+12-20 14:34:14.180 32477 32477 I android_hardware_fm.cpp: register_android_hardware_fm_fmradio, ret is 0
+12-20 14:34:14.200 20248 32472 I System.out: name=com.huawei.android.hwouc  versioncode=9146
+12-20 14:34:14.260   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:34:14.370 20248 32472 I System.out: name=com.android.packageinstaller  versioncode=19
+12-20 14:34:14.410 20248 32472 I System.out: name=com.android.providers.telephony  versioncode=19
+12-20 14:34:14.440 20248 32472 I System.out: name=com.svox.pico  versioncode=1
+12-20 14:34:14.480 20248 32472 I System.out: name=com.huawei.mmifunction  versioncode=1
+12-20 14:34:14.500 20248 32472 I System.out: name=com.android.noisefield  versioncode=1
+12-20 14:34:14.520 20248 32472 I System.out: name=com.android.email  versioncode=500060
+12-20 14:34:14.530 20248 32472 I System.out: name=com.android.mediacenter  versioncode=405550
+12-20 14:34:14.570 20248 32472 I System.out: name=com.nuance.swype.emui  versioncode=25289
+12-20 14:34:14.590 20248 32472 I System.out: name=com.android.wallpapercropper  versioncode=19
+12-20 14:34:14.600 20248 32472 I System.out: name=com.android.location.fused  versioncode=19
+12-20 14:34:14.610 20248 32472 I System.out: name=com.android.backupconfirm  versioncode=19
+12-20 14:34:14.630 20248 32472 I System.out: name=com.tencent.android.qqdownloader  versioncode=5403129
+12-20 14:34:14.650 20248 32472 I System.out: name=com.android.magicsmoke  versioncode=19
+12-20 14:34:14.660 20248 32472 I System.out: name=com.android.providers.settings  versioncode=19
+12-20 14:34:14.670 20248 32472 I System.out: name=com.huawei.android.totemweather  versioncode=51083
+12-20 14:34:14.680 20248 32472 I System.out: name=com.netease.my.kkk2  versioncode=10320
+12-20 14:34:14.710 20248 32472 I System.out: name=com.android.providers.downloads  versioncode=19
+12-20 14:34:14.720 20248 32472 I System.out: name=com.android.phasebeam  versioncode=1
+12-20 14:34:14.730 20248 32472 I System.out: name=com.tencent.mtt  versioncode=601560
+12-20 14:34:14.770 20248 32472 I System.out: name=com.screenovate.server.internal.protocols  versioncode=1
+12-20 14:34:14.780 20248 32472 I System.out: name=com.android.soundrecorder  versioncode=6101
+12-20 14:34:14.790 20248 32472 I System.out: name=com.cootek.smartdialer_oem_module  versioncode=4600
+12-20 14:34:14.810 20248 32472 I System.out: name=com.huawei.android.ds  versioncode=3314003
+12-20 14:34:14.820 20248 32472 I System.out: name=com.rxnetworks.pgpsdownloader  versioncode=6
+12-20 14:34:14.830 20248 32472 I System.out: name=com.android.inputmethod.latin  versioncode=19
+12-20 14:34:14.850 20248 32472 I System.out: name=com.google.android.onetimeinitializer  versioncode=19
+12-20 14:34:14.860 20248 32472 I System.out: name=com.google.android.partnersetup  versioncode=19
+12-20 14:34:14.870 20248 32472 I System.out: name=com.huawei.android.gpms  versioncode=1
+12-20 14:34:14.890 20248 32472 I System.out: name=com.android.proxyhandler  versioncode=19
+12-20 14:34:14.900 20248 32472 I System.out: name=com.easou.androidhelper  versioncode=1431
+12-20 14:34:14.910 20248 32472 I System.out: name=com.huawei.KoBackup  versioncode=63105003
+12-20 14:34:14.930 20248 32472 I System.out: name=com.android.inputdevices  versioncode=19
+12-20 14:34:14.940 20248 32472 I System.out: name=com.android.wallpaper.holospiral  versioncode=19
+12-20 14:34:14.950 20248 32472 I System.out: name=com.google.android.feedback  versioncode=19
+12-20 14:34:14.970 20248 32472 I System.out: name=com.huawei.lcagent  versioncode=11006
+12-20 14:34:14.980 20248 32472 I System.out: name=com.android.stk  versioncode=19
+12-20 14:34:14.990 20248 32472 I System.out: name=com.huawei.omacp  versioncode=1
+12-20 14:34:15.010 20248 32472 I System.out: name=com.huawei.android.airsharingcastclient  versioncode=2
+12-20 14:34:15.020 20248 32472 I System.out: name=com.android.providers.userdictionary  versioncode=19
+12-20 14:34:15.040 20248 32472 I System.out: name=com.ezjoynetwork.cavemanstorychinabeta  versioncode=2
+12-20 14:34:15.050 20248 32472 I System.out: name=com.tencent.mobileqq  versioncode=264
+12-20 14:34:15.070 20248 32472 I System.out: name=com.android.pacprocessor  versioncode=19
+12-20 14:34:15.120 20248 32472 I System.out: name=com.huawei.android.temperaturemonitor2  versioncode=1
+12-20 14:34:15.130 20248 32472 I System.out: name=androidhwext  versioncode=19
+12-20 14:34:15.160 20248 32472 I System.out: name=com.android.galaxy4  versioncode=1
+12-20 14:34:15.170 20248 32472 I System.out: name=com.android.printspooler  versioncode=1
+12-20 14:34:15.190 20248 32472 I System.out: name=com.google.android.syncadapters.calendar  versioncode=16
+12-20 14:34:15.200 20248 32472 I System.out: name=com.huawei.android.thirdpartyapplicationsobserver  versioncode=1
+12-20 14:34:15.220 20248 32472 I System.out: name=android  versioncode=19
+12-20 14:34:15.230 20248 32472 I System.out: name=com.android.providers.contacts  versioncode=121
+12-20 14:34:15.250 20248 32472 I System.out: name=com.hw.sohu.newsclient.newswall  versioncode=1
+12-20 14:34:15.260 20248 32472 I System.out: name=com.chaozh.iReaderFree  versioncode=431
+12-20 14:34:15.280 20248 32472 I System.out: name=com.huawei.android.mewidget  versioncode=62029
+12-20 14:34:15.300 20248 32472 I System.out: name=com.huawei.android.apkbatchinstall  versioncode=103
+12-20 14:34:15.310 20248 32472 I System.out: name=com.baidu.map.location  versioncode=30
+12-20 14:34:15.330 20248 32472 I System.out: name=com.android.protips  versioncode=1
+12-20 14:34:15.350 20248 32472 I System.out: name=com.google.android.apps.uploader  versioncode=224000
+12-20 14:34:15.360 20248 32472 I System.out: name=com.android.externalstorage  versioncode=19
+12-20 14:34:15.380 20248 32472 I System.out: name=com.huawei.android.thememanager  versioncode=61081
+12-20 14:34:15.400 20248 32472 I System.out: name=com.huawei.ChnUnicomAutoReg  versioncode=1
+12-20 14:34:15.410 20248 32472 I System.out: name=com.android.dreams.basic  versioncode=19
+12-20 14:34:15.430 20248 32472 I System.out: name=com.sdu.didi.psnger  versioncode=96
+12-20 14:34:15.450 20248 32472 I System.out: name=com.pandadastudio.runningman  versioncode=14
+12-20 14:34:15.470 20248 32472 I System.out: name=com.hw.sohu.newsclient  versioncode=1
+12-20 14:34:15.480 20248 32472 I System.out: name=com.android.vending  versioncode=80240022
+12-20 14:34:15.500 20248 32472 I System.out: name=com.huawei.android.calendarwidget  versioncode=50063
+12-20 14:34:15.510 20248 32472 I System.out: name=com.huawei.android.FMRadio  versioncode=6101
+12-20 14:34:15.640 20248 32472 I System.out: name=com.android.systemui  versioncode=19
+12-20 14:34:15.660 20248 32472 I System.out: name=com.huawei.android.multiscreen  versioncode=1119
+12-20 14:34:15.680 20248 32472 I System.out: name=com.android.keychain  versioncode=19
+12-20 14:34:15.700 20248 32472 I System.out: name=com.huawei.vassistant  versioncode=23108
+12-20 14:34:15.710 20248 32472 I System.out: name=com.wandoujia.phoenix2  versioncode=8061
+12-20 14:34:15.750 32492 32492 E memtrack: Couldn't load memtrack module (No such file or directory)
+12-20 14:34:15.750 32492 32492 E android.os.Debug: failed to load memtrack module: -2
+12-20 14:34:15.750 20248 32472 I System.out: name=com.google.android.gm  versioncode=55008623
+12-20 14:34:15.770 20248 32472 I System.out: name=com.huawei.android.UnicomCustomApk  versioncode=1
+12-20 14:34:15.790 20248 32472 I System.out: name=com.android.smspush  versioncode=19
+12-20 14:34:15.800 20248 32472 I System.out: name=com.huawei.vdrive  versioncode=10127
+12-20 14:34:15.810 20248 32472 I System.out: name=com.android.wallpaper  versioncode=19
+12-20 14:34:15.830 20248 32472 I System.out: name=com.mt.mtxx.mtxx  versioncode=460
+12-20 14:34:15.840 20248 32472 I System.out: name=eu.chainfire.supersu  versioncode=249
+12-20 14:34:15.840 32492 32492 I android_hardware_fm.cpp: ----Inside int register_android_hardware_fm_fmradio(JNIEnv*)----
+12-20 14:34:15.850 32492 32492 I android_hardware_fm.cpp: register_android_hardware_fm_fmradio, ret is 0
+12-20 14:34:15.860 20248 32472 I System.out: name=com.google.android.syncadapters.bookmarks  versioncode=18
+12-20 14:34:15.880 20248 32472 I System.out: name=com.benbear.y3  versioncode=1
+12-20 14:34:15.900 20248 32472 I System.out: name=com.android.deskclock  versioncode=6101
+12-20 14:34:15.910 20248 32472 I System.out: name=com.huawei.appmarket  versioncode=6315106
+12-20 14:34:15.930 20248 32472 I System.out: name=com.google.android.gsf  versioncode=19
+12-20 14:34:15.960 20248 32472 I System.out: name=com.huawei.hidisk  versioncode=63103003
+12-20 14:34:15.970 20248 32472 I System.out: name=com.android.keyguard  versioncode=19
+12-20 14:34:15.990 20248 32472 I System.out: name=com.achievo.vipshop  versioncode=343
+12-20 14:34:16.000 20248 32472 I System.out: name=com.android.facelock  versioncode=19
+12-20 14:34:16.020 20248 32472 I System.out: name=com.qihoo.yunpan  versioncode=6327
+12-20 14:34:16.020 32495 32495 E memtrack: Couldn't load memtrack module (No such file or directory)
+12-20 14:34:16.020 32495 32495 E android.os.Debug: failed to load memtrack module: -2
+12-20 14:34:16.030 20248 32472 I System.out: name=com.android.shell  versioncode=19
+12-20 14:34:16.050 20248 32472 I System.out: name=com.huawei.android.dlna  versioncode=12654
+12-20 14:34:16.060 20248 32472 I System.out: name=com.tiantian.android.player.video  versioncode=1217
+12-20 14:34:16.080 20248 32472 I System.out: name=com.example.cc  versioncode=1
+12-20 14:34:16.090 32495 32495 I android_hardware_fm.cpp: ----Inside int register_android_hardware_fm_fmradio(JNIEnv*)----
+12-20 14:34:16.090 32495 32495 I android_hardware_fm.cpp: register_android_hardware_fm_fmradio, ret is 0
+12-20 14:34:16.100 20248 32472 I System.out: name=com.huawei.android.wfdft  versioncode=6008
+12-20 14:34:16.110 20248 32472 I System.out: name=com.google.android.syncadapters.contacts  versioncode=19
+12-20 14:34:16.130 20248 32472 I System.out: name=com.google.android.backup  versioncode=19
+12-20 14:34:16.140 20248 32472 I System.out: name=com.huawei.android.launcher  versioncode=62011
+12-20 14:34:17.270   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:34:18.090 32593 32593 E memtrack: Couldn't load memtrack module (No such file or directory)
+12-20 14:34:18.090 32593 32593 E android.os.Debug: failed to load memtrack module: -2
+12-20 14:34:18.150 32593 32593 I android_hardware_fm.cpp: ----Inside int register_android_hardware_fm_fmradio(JNIEnv*)----
+12-20 14:34:18.150 32593 32593 I android_hardware_fm.cpp: register_android_hardware_fm_fmradio, ret is 0
+12-20 14:34:20.270   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:34:20.820   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:34:21.880   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:34:22.050 32382 32382 I Process : Sending signal. PID: 32382 SIG: 9
+12-20 14:34:23.280   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:34:26.290   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:34:27.910   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:34:28.940   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:34:29.300   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:34:32.320   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:34:32.960   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:34:35.040   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:34:35.330   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:34:36.080   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:34:37.130   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:34:38.190   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:34:38.340   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:34:39.260   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:34:39.410   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:34:40.220  1048  1048 E HwSystemManager: :ACTION_BATTERY_CHANGED pluged =2
+12-20 14:34:40.240   846   846 E TemperatureMonitor2: BatteryTemp=320
+12-20 14:34:40.430   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:34:40.460   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:34:40.610 28405 28405 W AwContents: nativeOnDraw failed; clearing to background color.
+12-20 14:34:40.640   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:34:40.690 28405 28405 I chromium: [INFO:CONSOLE(0)] "Document was loaded from Application Cache with manifest http://mobads.baidu.com/ads/ads.appcache", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:34:40.690 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache Checking event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:34:40.690 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache Checking event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:34:40.690 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache Checking event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:34:40.690 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache Checking event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:34:40.920  1048  1156 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:34:40.920  1048  1156 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:34:40.920  1048  1156 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:34:40.920  1048  5992 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:34:40.930  1048  5992 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:34:40.930  1048  5992 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:34:40.930  1048  1059 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:34:40.930  1048  1059 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:34:40.930  1048  1059 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:34:40.950  1048  9574 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:34:40.950  1048  9574 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:34:40.950  1048  9574 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:34:40.960 28405 28602 I Mobads SDK:  Request_ID = e62ef395a84580b5ea7548c714997a25; AppID = a9b34ae9; AdPlaceId = 
+12-20 14:34:40.960  1048  1156 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:34:40.970  1048  1156 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:34:40.970  1048  1156 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:34:40.970  1048  5992 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:34:40.970  1048  5992 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:34:40.970  1048  5992 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:34:41.070   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:34:41.320   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:34:41.350   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:34:41.610   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:34:41.740   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:34:42.230   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:34:43.420   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:34:43.830 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:34:43.830 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:34:43.830 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:34:44.360   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:34:44.460   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:34:44.500   141   165 E logserver: Recvfrom netlink message failed, errno = 11
+12-20 14:34:47.370   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:34:48.490   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:34:49.140   846  2018 W TemperatureMonitor2: Leave 48'C at 2881:55
+12-20 14:34:49.140   846  2018 W TemperatureMonitor2: Leave 47'C at 2881:55
+12-20 14:34:50.380   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:34:50.530   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:34:51.560   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:34:52.540   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:34:53.390   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:34:56.410   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:34:59.420   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:35:00.180   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:35:01.480   574   697 W System.err: java.lang.IllegalArgumentException
+12-20 14:35:01.480   574   697 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:35:01.480   574   697 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:35:01.480   574   697 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:35:01.480   574   697 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:35:01.480   574   857 W System.err: java.lang.IllegalArgumentException
+12-20 14:35:01.490   574   857 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:35:01.490   574   857 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:35:01.490   574   857 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:35:01.490   574   857 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:35:01.490   574 10507 W System.err: java.lang.IllegalArgumentException
+12-20 14:35:01.490   574 10507 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:35:01.490   574 10507 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:35:01.490   574 10507 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:35:01.490   574 10507 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:35:01.490   574   875 W System.err: java.lang.IllegalArgumentException
+12-20 14:35:01.490   574   875 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:35:01.490   574   875 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:35:01.490   574   875 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:35:01.490   574   875 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:35:01.490   574   876 W System.err: java.lang.IllegalArgumentException
+12-20 14:35:01.490   574   876 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:35:01.490   574   876 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:35:01.490   574   876 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:35:01.490   574   876 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:35:01.490   574   835 W System.err: java.lang.IllegalArgumentException
+12-20 14:35:01.490   574   835 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:35:01.490   574   835 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:35:01.490   574   835 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:35:01.490   574   835 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:35:01.490   574  9953 W System.err: java.lang.IllegalArgumentException
+12-20 14:35:01.490   574  9953 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:35:01.490   574  9953 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:35:01.490   574  9953 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:35:01.490   574  9953 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:35:01.490   574   834 W System.err: java.lang.IllegalArgumentException
+12-20 14:35:01.490   574   834 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:35:01.490   574   834 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:35:01.490   574   834 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:35:01.490   574   834 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:35:01.490   574   704 W System.err: java.lang.IllegalArgumentException
+12-20 14:35:01.490   574   704 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:35:01.490   574   704 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:35:01.490   574   704 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:35:01.490   574   704 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:35:01.500   574 16011 W System.err: java.lang.IllegalArgumentException
+12-20 14:35:01.500   574 16011 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:35:01.500   574 16011 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:35:01.500   574 16011 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:35:01.500   574 16011 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:35:01.500   574   584 W System.err: java.lang.IllegalArgumentException
+12-20 14:35:01.500   574   584 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:35:01.500   574   584 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:35:01.500   574   584 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:35:01.500   574   584 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:35:01.500   574   855 W System.err: java.lang.IllegalArgumentException
+12-20 14:35:01.500   574   855 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:35:01.500   574   855 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:35:01.500   574   855 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:35:01.500   574   855 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:35:01.500   574   585 W System.err: java.lang.IllegalArgumentException
+12-20 14:35:01.500   574   585 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:35:01.500   574   585 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:35:01.500   574   585 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:35:01.500   574   585 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:35:01.600  1048  1058 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:35:01.610  1048  1058 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:35:01.610  1048  1058 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:35:01.620  1048  1377 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:35:01.630  1048  1377 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:35:01.630  1048  1377 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:35:01.640  1048  9574 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:35:01.650  1048  9574 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:35:01.650  1048  9574 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:35:01.800  1048  1377 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:35:01.800  1048  1377 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:35:01.800  1048  1377 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:35:01.940   574   585 W System.err: java.lang.IllegalArgumentException
+12-20 14:35:01.940   574   585 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:35:01.940   574   585 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:35:01.940   574   585 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:35:01.940   574   585 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:35:01.940   574 10228 W System.err: java.lang.IllegalArgumentException
+12-20 14:35:01.940   574 10228 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:35:01.940   574 10228 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:35:01.940   574 10228 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:35:01.940   574 10228 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:35:01.940   574   626 W System.err: java.lang.IllegalArgumentException
+12-20 14:35:01.940   574   626 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:35:01.940   574   626 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:35:01.940   574   626 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:35:01.940   574   626 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:35:01.940   574   697 W System.err: java.lang.IllegalArgumentException
+12-20 14:35:01.940   574   697 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:35:01.940   574   697 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:35:01.940   574   697 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:35:01.940   574   697 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:35:01.940   574   857 W System.err: java.lang.IllegalArgumentException
+12-20 14:35:01.940   574   857 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:35:01.940   574   857 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:35:01.940   574   857 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:35:01.940   574   857 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:35:01.940   574   875 W System.err: java.lang.IllegalArgumentException
+12-20 14:35:01.940   574   875 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:35:01.940   574   875 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:35:01.940   574   875 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:35:01.940   574   875 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:35:01.940   574 10507 W System.err: java.lang.IllegalArgumentException
+12-20 14:35:01.950   574 10507 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:35:01.950   574 10507 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:35:01.950   574 10507 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:35:01.950   574 10507 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:35:01.950   574   876 W System.err: java.lang.IllegalArgumentException
+12-20 14:35:01.950   574   876 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:35:01.950   574   876 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:35:01.950   574   876 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:35:01.950   574   876 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:35:01.950   574   835 W System.err: java.lang.IllegalArgumentException
+12-20 14:35:01.950   574   835 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:35:01.950   574   835 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:35:01.950   574   835 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:35:01.950   574   835 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:35:01.950   574  9953 W System.err: java.lang.IllegalArgumentException
+12-20 14:35:01.950   574  9953 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:35:01.950   574  9953 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:35:01.950   574  9953 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:35:01.950   574  9953 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:35:01.950   574   584 W System.err: java.lang.IllegalArgumentException
+12-20 14:35:01.950   574   584 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:35:01.950   574   584 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:35:01.950   574   584 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:35:01.950   574   584 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:35:01.950   574   834 W System.err: java.lang.IllegalArgumentException
+12-20 14:35:01.950   574   834 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:35:01.950   574   834 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:35:01.950   574   834 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:35:01.960   574   834 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:35:01.960   574 16011 W System.err: java.lang.IllegalArgumentException
+12-20 14:35:01.960   574 16011 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:35:01.960   574 16011 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:35:01.960   574 16011 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:35:01.960   574 16011 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:35:02.430   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:35:02.470  1048  5992 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:35:02.480  1048  5992 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:35:02.480  1048  5992 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:35:02.490  3599  3599 I SUPL20_LocMan: Phone type:GSM
+12-20 14:35:02.490  3599  3599 I SUPL20_LocMan: Network Op Mnc= 0 MCC = 460
+12-20 14:35:02.490  3599  3599 I SUPL20_LocMan:  cellInfo NetworkType:EDGE,2
+12-20 14:35:02.490  3599  3599 I SUPL20_LocMan: Mnc:0 MCC:460 LAC:4136 CellID:38173
+12-20 14:35:02.510  3599  3707 I SUPL20_SPIMESLP-SENDING: m_bPacket.length 60
+12-20 14:35:05.440   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:35:07.630   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:35:08.460   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:35:08.660   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:35:09.250   846  2018 W TemperatureMonitor2: Leave 46'C at 2882:15
+12-20 14:35:09.460   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:35:10.320  1048  1048 E HwSystemManager: :ACTION_BATTERY_CHANGED pluged =2
+12-20 14:35:10.330   846   846 E TemperatureMonitor2: BatteryTemp=330
+12-20 14:35:10.390   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:35:10.730 28405 28405 W AwContents: nativeOnDraw failed; clearing to background color.
+12-20 14:35:10.740   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:35:10.850 28405 28405 I chromium: [INFO:CONSOLE(0)] "Document was loaded from Application Cache with manifest http://mobads.baidu.com/ads/ads.appcache", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:35:10.850 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache Checking event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:35:10.850 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache Checking event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:35:10.850 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache Checking event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:35:10.850 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache Checking event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:35:11.070  1048  1156 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:35:11.080  1048  1156 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:35:11.080  1048  1156 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:35:11.080  1048  5991 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:35:11.080  1048  5991 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:35:11.080  1048  5991 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:35:11.090  1048  1377 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:35:11.090  1048  1377 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:35:11.090  1048  1377 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:35:11.100  1048  1059 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:35:11.110  1048  1059 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:35:11.110  1048  1059 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:35:11.120 28405 28602 I Mobads SDK:  Request_ID = fca2b9cfb024a0e5490b95c8c5b3d10f; AppID = a9b34ae9; AdPlaceId = 
+12-20 14:35:11.120  1048  1156 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:35:11.120  1048  1156 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:35:11.120  1048  1156 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:35:11.120  1048  5991 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:35:11.130  1048  5991 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:35:11.130  1048  5991 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:35:11.140 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:35:11.140 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:35:11.140 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:35:11.140 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:35:11.220   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:35:11.460   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:35:11.490   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:35:11.720   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:35:11.790   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:35:12.240   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:35:12.320   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:35:14.470   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:35:17.490   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:35:19.710   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:35:20.490   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:35:21.710   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:35:22.710   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:35:23.500   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:35:25.760   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:35:26.510   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:35:26.790   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:35:27.830   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:35:28.880   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:35:29.520   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:35:32.540   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:35:35.550   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:35:36.930   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:35:37.960   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:35:38.560   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:35:39.440   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:35:39.990   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:35:40.730 28405 28405 W AwContents: nativeOnDraw failed; clearing to background color.
+12-20 14:35:40.770   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:35:40.820   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:35:40.840 28405 28405 I chromium: [INFO:CONSOLE(0)] "Document was loaded from Application Cache with manifest http://mobads.baidu.com/ads/ads.appcache", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:35:40.840 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache Checking event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:35:40.840 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache Checking event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:35:40.840 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache Checking event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:35:40.840 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache Checking event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:35:40.990   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:35:41.080  1048  1058 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:35:41.080  1048  1058 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:35:41.080  1048  1058 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:35:41.080  1048  5992 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:35:41.090  1048  5992 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:35:41.090  1048  5992 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:35:41.090  1048  9574 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:35:41.090  1048  9574 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:35:41.090  1048  9574 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:35:41.110  1048  1156 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:35:41.110  1048  1156 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:35:41.110  1048  1156 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:35:41.120 28405 28602 I Mobads SDK:  Request_ID = 30c76d104a118fb83396969530cd8870; AppID = a9b34ae9; AdPlaceId = 
+12-20 14:35:41.120  1048  1058 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:35:41.130  1048  1058 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:35:41.130  1048  1058 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:35:41.130  1048  5992 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:35:41.130  1048  5992 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:35:41.130  1048  5992 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:35:41.150 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:35:41.150 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:35:41.150 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:35:41.150 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:35:41.240   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:35:41.510   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:35:41.570   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:35:41.720   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:35:41.890   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:35:44.420   141   165 E logserver: Recvfrom netlink message failed, errno = 11
+12-20 14:35:44.580   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:35:45.040   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:35:45.800  3599  3599 I SUPL20_LocMan: Phone type:GSM
+12-20 14:35:45.800  3599  3599 I SUPL20_LocMan: Network Op Mnc= 0 MCC = 460
+12-20 14:35:45.800  3599  3599 I SUPL20_LocMan:  cellInfo NetworkType:EDGE,2
+12-20 14:35:45.800  3599  3599 I SUPL20_LocMan: Mnc:0 MCC:460 LAC:4136 CellID:48807
+12-20 14:35:45.800  3599  3707 I SUPL20_SPIMESLP-SENDING: m_bPacket.length 60
+12-20 14:35:45.810  1048  5992 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:35:45.820  1048  5992 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:35:45.820  1048  5992 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:35:46.060   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:35:47.600   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:35:49.090   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:35:50.130   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:35:50.600   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:35:51.160   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:35:52.190   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:35:53.620   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:35:55.210   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:35:56.240   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:35:56.630   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:35:58.280   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:35:58.710 28301   380 W Uploader: No account for auth token provided
+12-20 14:35:59.310   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:35:59.640   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:36:00.090   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:36:01.530   574   834 W System.err: java.lang.IllegalArgumentException
+12-20 14:36:01.530   574   834 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:36:01.530   574   834 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:36:01.530   574   834 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:36:01.530   574   834 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:36:01.530   574  8874 W System.err: java.lang.IllegalArgumentException
+12-20 14:36:01.530   574  8874 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:36:01.530   574  8874 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:36:01.530   574  8874 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:36:01.530   574  8874 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:36:01.530   574   626 W System.err: java.lang.IllegalArgumentException
+12-20 14:36:01.530   574   626 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:36:01.530   574   626 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:36:01.530   574   626 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:36:01.530   574   626 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:36:01.540   574   704 W System.err: java.lang.IllegalArgumentException
+12-20 14:36:01.540   574   704 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:36:01.540   574   704 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:36:01.540   574   704 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:36:01.540   574   704 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:36:01.540   574   855 W System.err: java.lang.IllegalArgumentException
+12-20 14:36:01.540   574   855 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:36:01.540   574   855 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:36:01.540   574   855 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:36:01.540   574   855 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:36:01.540   574 10507 W System.err: java.lang.IllegalArgumentException
+12-20 14:36:01.540   574 10507 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:36:01.540   574 10507 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:36:01.540   574 10507 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:36:01.540   574 10507 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:36:01.540   574   585 W System.err: java.lang.IllegalArgumentException
+12-20 14:36:01.540   574   585 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:36:01.540   574   585 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:36:01.540   574   585 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:36:01.540   574   585 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:36:01.540   574   697 W System.err: java.lang.IllegalArgumentException
+12-20 14:36:01.540   574   697 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:36:01.540   574   697 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:36:01.540   574   697 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:36:01.540   574   697 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:36:01.540   574   857 W System.err: java.lang.IllegalArgumentException
+12-20 14:36:01.540   574   857 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:36:01.540   574   857 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:36:01.540   574   857 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:36:01.540   574   857 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:36:01.540   574   835 W System.err: java.lang.IllegalArgumentException
+12-20 14:36:01.540   574   835 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:36:01.540   574   835 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:36:01.540   574   835 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:36:01.540   574   835 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:36:01.550   574   584 W System.err: java.lang.IllegalArgumentException
+12-20 14:36:01.550   574   584 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:36:01.550   574   584 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:36:01.550   574   584 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:36:01.550   574   584 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:36:01.550   574 16011 W System.err: java.lang.IllegalArgumentException
+12-20 14:36:01.550   574 16011 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:36:01.550   574 16011 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:36:01.550   574 16011 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:36:01.550   574 16011 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:36:01.550   574   875 W System.err: java.lang.IllegalArgumentException
+12-20 14:36:01.550   574   875 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:36:01.550   574   875 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:36:01.550   574   875 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:36:01.550   574   875 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:36:01.630  1048  5992 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:36:01.640  1048  5992 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:36:01.640  1048  5992 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:36:01.650  1048  1058 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:36:01.650  1048  1058 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:36:01.660  1048  1058 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:36:01.670  1048  5991 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:36:01.670  1048  5991 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:36:01.670  1048  5991 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:36:01.970  1048  1058 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:36:01.980  1048  1058 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:36:01.980  1048  1058 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:36:02.060   574   876 W System.err: java.lang.IllegalArgumentException
+12-20 14:36:02.060   574   876 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:36:02.060   574   876 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:36:02.060   574   876 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:36:02.060   574   876 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:36:02.060   574   834 W System.err: java.lang.IllegalArgumentException
+12-20 14:36:02.060   574   834 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:36:02.060   574   834 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:36:02.060   574   834 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:36:02.060   574   834 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:36:02.070   574  8874 W System.err: java.lang.IllegalArgumentException
+12-20 14:36:02.070   574  8874 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:36:02.070   574  8874 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:36:02.070   574  8874 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:36:02.070   574  8874 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:36:02.070   574   626 W System.err: java.lang.IllegalArgumentException
+12-20 14:36:02.070   574   626 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:36:02.070   574   626 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:36:02.070   574   626 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:36:02.070   574   626 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:36:02.070   574   704 W System.err: java.lang.IllegalArgumentException
+12-20 14:36:02.070   574   704 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:36:02.070   574   704 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:36:02.070   574   704 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:36:02.070   574   704 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:36:02.070   574   855 W System.err: java.lang.IllegalArgumentException
+12-20 14:36:02.070   574   855 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:36:02.070   574   855 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:36:02.070   574   855 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:36:02.070   574   855 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:36:02.070   574   585 W System.err: java.lang.IllegalArgumentException
+12-20 14:36:02.070   574   585 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:36:02.070   574   585 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:36:02.070   574   585 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:36:02.070   574   585 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:36:02.070   574 10507 W System.err: java.lang.IllegalArgumentException
+12-20 14:36:02.070   574 10507 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:36:02.070   574 10507 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:36:02.070   574 10507 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:36:02.070   574 10507 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:36:02.080   574   697 W System.err: java.lang.IllegalArgumentException
+12-20 14:36:02.080   574   697 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:36:02.080   574   697 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:36:02.080   574   697 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:36:02.080   574   697 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:36:02.080   574   857 W System.err: java.lang.IllegalArgumentException
+12-20 14:36:02.080   574   857 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:36:02.080   574   857 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:36:02.080   574   857 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:36:02.080   574   857 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:36:02.080   574   835 W System.err: java.lang.IllegalArgumentException
+12-20 14:36:02.080   574   835 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:36:02.080   574   835 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:36:02.080   574   835 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:36:02.080   574   835 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:36:02.080   574 10228 W System.err: java.lang.IllegalArgumentException
+12-20 14:36:02.080   574 10228 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:36:02.080   574 10228 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:36:02.080   574 10228 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:36:02.080   574 10228 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:36:02.080   574   584 W System.err: java.lang.IllegalArgumentException
+12-20 14:36:02.080   574   584 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:36:02.080   574   584 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:36:02.080   574   584 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:36:02.080   574   584 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:36:02.650   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:36:03.360   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:36:04.390   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:36:05.420   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:36:05.670   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:36:06.460   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:36:08.680   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:36:09.460   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:36:09.620   846  2018 W TemperatureMonitor2: Leave 45'C at 2883:15
+12-20 14:36:09.970  3599  3599 I SUPL20_LocMan: Phone type:GSM
+12-20 14:36:09.970  3599  3599 I SUPL20_LocMan: Network Op Mnc= 0 MCC = 460
+12-20 14:36:09.970  3599  3599 I SUPL20_LocMan:  cellInfo NetworkType:EDGE,2
+12-20 14:36:09.970  3599  3599 I SUPL20_LocMan: Mnc:0 MCC:460 LAC:4136 CellID:60969
+12-20 14:36:09.980  1048  1156 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:36:09.990  3599  3707 I SUPL20_SPIMESLP-SENDING: m_bPacket.length 60
+12-20 14:36:10.000  1048  1156 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:36:10.010  1048  1156 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:36:10.480   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:36:10.580   141   165 E logserver: Recvfrom netlink message failed, errno = 11
+12-20 14:36:10.880 28405 28405 W AwContents: nativeOnDraw failed; clearing to background color.
+12-20 14:36:10.890   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:36:10.960 28405 28405 I chromium: [INFO:CONSOLE(0)] "Document was loaded from Application Cache with manifest http://mobads.baidu.com/ads/ads.appcache", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:36:10.960 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache Checking event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:36:10.960 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache Checking event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:36:10.960 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache Checking event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:36:10.960 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache Checking event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:36:11.180  1048  5991 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:36:11.180  1048  5991 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:36:11.180  1048  5991 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:36:11.190  1048  1379 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:36:11.190  1048  1379 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:36:11.190  1048  1379 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:36:11.190  1048  1059 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:36:11.200  1048  1059 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:36:11.200  1048  1059 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:36:11.210  1048  1058 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:36:11.220  1048  1058 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:36:11.220  1048  1058 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:36:11.220 28405 28602 I Mobads SDK:  Request_ID = 18f3c6a185a281f8468dbab16b73014e; AppID = a9b34ae9; AdPlaceId = 
+12-20 14:36:11.230  1048  5991 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:36:11.230  1048  5991 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:36:11.230  1048  5991 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:36:11.230  1048  1379 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:36:11.240  1048  1379 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:36:11.240  1048  1379 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:36:11.250 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:36:11.250 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:36:11.250 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:36:11.250 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:36:11.340   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:36:11.470   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:36:11.590   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:36:11.640   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:36:11.690   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:36:11.860   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:36:11.970   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:36:14.700   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:36:15.490   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:36:16.490   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:36:17.720   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:36:18.530   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:36:19.580   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:36:20.730   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:36:21.590   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:36:22.610   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:36:23.750   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:36:25.640   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:36:26.660   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:36:26.760   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:36:27.690   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:36:28.730   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:36:29.740   846  2018 W TemperatureMonitor2: Enter 45'C at 2883:36
+12-20 14:36:29.760   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:36:29.770   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:36:32.780   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:36:34.820   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:36:35.790   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:36:35.890   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:36:36.940   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:36:38.010   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:36:38.800   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:36:38.920   141   165 E logserver: get alarm time = 173025 (sec.)!
+12-20 14:36:38.920   141   165 E logserver: send_files, commercial version, send by other, return!
+12-20 14:36:38.920   141   165 E logserver: Timeout, apr update!
+12-20 14:36:38.920   141   221 E logserver: Object Path:/data/log/apr/, mask=0x00000008
+12-20 14:36:38.930   141   221 E logserver: event->len=80, name=P6-U06_V100R001C17B507SP01_022AQQ7N37258650_19700109183609_statistics
+12-20 14:36:38.930   141   221 E logserver: process_one_event, can not find this event(P6-U06_V100R001C17B507SP01_022AQQ7N37258650_19700109183609_statistics)
+12-20 14:36:38.930   141   221 E logserver: clean_cur_cache:891, system(rm -r /data/log/logcache/19482216/* > /dev/null 2>&1)
+12-20 14:36:39.460   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:36:40.080   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:36:40.660   141   165 E logserver: Recvfrom netlink message failed, errno = 11
+12-20 14:36:40.970 28405 28405 W AwContents: nativeOnDraw failed; clearing to background color.
+12-20 14:36:40.990   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:36:41.060 28405 28405 I chromium: [INFO:CONSOLE(0)] "Document was loaded from Application Cache with manifest http://mobads.baidu.com/ads/ads.appcache", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:36:41.070 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache Checking event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:36:41.070 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache Checking event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:36:41.070 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache Checking event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:36:41.070 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache Checking event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:36:41.280  1048  5991 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:36:41.280  1048  5991 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:36:41.280  1048  5991 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:36:41.280  1048  1379 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:36:41.290  1048  1379 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:36:41.290  1048  1379 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:36:41.290  1048  1059 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:36:41.290  1048  1059 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:36:41.290  1048  1059 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:36:41.310  1048  1058 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:36:41.310  1048  1058 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:36:41.310  1048  1058 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:36:41.320 28405 28602 I Mobads SDK:  Request_ID = 72541866282dd186cedf9115510b1d02; AppID = a9b34ae9; AdPlaceId = 
+12-20 14:36:41.320  1048  5991 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:36:41.320  1048  5991 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:36:41.320  1048  5991 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:36:41.330  1048  1379 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:36:41.330  1048  1379 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:36:41.330  1048  1379 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:36:41.350 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:36:41.350 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:36:41.350 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:36:41.350 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:36:41.370   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:36:41.670   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:36:41.810   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:36:42.060   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:36:44.820   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:36:47.840   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:36:49.140   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:36:49.850   846  2018 W TemperatureMonitor2: Leave 45'C at 2883:56
+12-20 14:36:50.170   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:36:50.850   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:36:51.230   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:36:52.240   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:36:53.860   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:36:56.880   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:36:58.330   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:36:59.890   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:37:00.060   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:37:00.340   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:37:01.360   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:37:01.550   574 10507 W System.err: java.lang.IllegalArgumentException
+12-20 14:37:01.550   574 10507 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:37:01.550   574 10507 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:37:01.550   574 10507 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:37:01.550   574 10507 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:37:01.550   574   697 W System.err: java.lang.IllegalArgumentException
+12-20 14:37:01.560   574   697 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:37:01.560   574   697 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:37:01.560   574   697 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:37:01.560   574   697 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:37:01.560   574 10228 W System.err: java.lang.IllegalArgumentException
+12-20 14:37:01.560   574 10228 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:37:01.560   574 10228 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:37:01.560   574 10228 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:37:01.560   574 10228 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:37:01.570   574   585 W System.err: java.lang.IllegalArgumentException
+12-20 14:37:01.570   574   585 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:37:01.570   574   585 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:37:01.570   574   585 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:37:01.570   574   585 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:37:01.570   574   875 W System.err: java.lang.IllegalArgumentException
+12-20 14:37:01.570   574   875 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:37:01.570   574   875 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:37:01.570   574   875 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:37:01.570   574   875 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:37:01.580   574   857 W System.err: java.lang.IllegalArgumentException
+12-20 14:37:01.580   574   857 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:37:01.580   574   857 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:37:01.580   574   857 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:37:01.580   574   857 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:37:01.580   574   855 W System.err: java.lang.IllegalArgumentException
+12-20 14:37:01.590   574   855 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:37:01.590   574   855 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:37:01.590   574   855 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:37:01.590   574   855 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:37:01.590   574   704 W System.err: java.lang.IllegalArgumentException
+12-20 14:37:01.590   574   704 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:37:01.590   574   704 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:37:01.590   574   704 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:37:01.590   574   704 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:37:01.600   574 16011 W System.err: java.lang.IllegalArgumentException
+12-20 14:37:01.600   574 16011 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:37:01.600   574 16011 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:37:01.600   574 16011 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:37:01.600   574 16011 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:37:01.600   574   835 W System.err: java.lang.IllegalArgumentException
+12-20 14:37:01.600   574   835 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:37:01.600   574   835 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:37:01.600   574   835 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:37:01.600   574   835 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:37:01.610   574  9953 W System.err: java.lang.IllegalArgumentException
+12-20 14:37:01.610   574  9953 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:37:01.610   574  9953 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:37:01.610   574  9953 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:37:01.610   574  9953 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:37:01.620   574   584 W System.err: java.lang.IllegalArgumentException
+12-20 14:37:01.620   574   584 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:37:01.620   574   584 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:37:01.620   574   584 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:37:01.620   574   584 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:37:01.620   574   834 W System.err: java.lang.IllegalArgumentException
+12-20 14:37:01.620   574   834 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:37:01.620   574   834 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:37:01.620   574   834 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:37:01.620   574   834 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:37:01.710  1048  1177 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:37:01.720  1048  1177 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:37:01.720  1048  1177 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:37:01.730  1048  1059 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:37:01.730  1048  1059 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:37:01.730  1048  1059 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:37:01.750  1048  1156 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:37:01.750  1048  1156 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:37:01.750  1048  1156 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:37:01.880  1048  1059 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:37:01.880  1048  1059 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:37:01.880  1048  1059 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:37:01.960   574   857 W System.err: java.lang.IllegalArgumentException
+12-20 14:37:01.960   574   857 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:37:01.960   574   857 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:37:01.960   574   857 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:37:01.960   574   857 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:37:01.960   574   875 W System.err: java.lang.IllegalArgumentException
+12-20 14:37:01.960   574   875 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:37:01.960   574   875 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:37:01.960   574   875 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:37:01.960   574   875 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:37:01.960   574 10228 W System.err: java.lang.IllegalArgumentException
+12-20 14:37:01.960   574 10228 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:37:01.960   574 10228 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:37:01.960   574 10228 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:37:01.960   574 10228 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:37:01.960   574   855 W System.err: java.lang.IllegalArgumentException
+12-20 14:37:01.960   574   855 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:37:01.960   574   855 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:37:01.960   574   855 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:37:01.960   574   855 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:37:01.960   574   704 W System.err: java.lang.IllegalArgumentException
+12-20 14:37:01.960   574   704 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:37:01.960   574   704 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:37:01.960   574   704 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:37:01.960   574   704 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:37:01.970   574 16011 W System.err: java.lang.IllegalArgumentException
+12-20 14:37:01.970   574 16011 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:37:01.970   574 16011 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:37:01.970   574 16011 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:37:01.970   574 16011 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:37:01.970   574   835 W System.err: java.lang.IllegalArgumentException
+12-20 14:37:01.970   574   835 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:37:01.970   574   835 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:37:01.970   574   835 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:37:01.970   574   835 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:37:01.970   574  9953 W System.err: java.lang.IllegalArgumentException
+12-20 14:37:01.970   574  9953 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:37:01.970   574  9953 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:37:01.970   574  9953 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:37:01.970   574  9953 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:37:01.970   574   584 W System.err: java.lang.IllegalArgumentException
+12-20 14:37:01.970   574   584 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:37:01.970   574   584 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:37:01.970   574   584 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:37:01.970   574   584 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:37:01.970   574   626 W System.err: java.lang.IllegalArgumentException
+12-20 14:37:01.970   574   626 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:37:01.970   574   626 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:37:01.970   574   626 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:37:01.970   574   626 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:37:01.970   574   834 W System.err: java.lang.IllegalArgumentException
+12-20 14:37:01.970   574   834 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:37:01.970   574   834 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:37:01.970   574   834 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:37:01.970   574   834 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:37:01.970   574 10507 W System.err: java.lang.IllegalArgumentException
+12-20 14:37:01.970   574 10507 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:37:01.970   574 10507 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:37:01.970   574 10507 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:37:01.970   574 10507 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:37:01.980   574   876 W System.err: java.lang.IllegalArgumentException
+12-20 14:37:01.980   574   876 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:37:01.980   574   876 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:37:01.980   574   876 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:37:01.980   574   876 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:37:02.900   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:37:03.370   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:37:04.410   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:37:05.460   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:37:05.920   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:37:06.480   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:37:07.470   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:37:08.930   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:37:09.460   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:37:09.490   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:37:11.400 28405 28405 W AwContents: nativeOnDraw failed; clearing to background color.
+12-20 14:37:11.460   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:37:11.510   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:37:11.550 28405 28405 I chromium: [INFO:CONSOLE(0)] "Document was loaded from Application Cache with manifest http://mobads.baidu.com/ads/ads.appcache", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:37:11.550 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache Checking event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:37:11.550 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache Checking event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:37:11.560 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache Checking event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:37:11.560 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache Checking event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:37:11.780  1048  1379 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:37:11.790  1048  1379 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:37:11.790  1048  1379 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:37:11.790  1048  5992 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:37:11.790  1048  5992 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:37:11.790  1048  5992 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:37:11.800  1048  1377 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:37:11.800  1048  1377 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:37:11.800  1048  1377 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:37:11.810  1048  1058 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:37:11.820  1048  1058 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:37:11.820  1048  1058 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:37:11.820 28405 28602 I Mobads SDK:  Request_ID = 28d2bc162eecdff1ccd571e735e68a0d; AppID = a9b34ae9; AdPlaceId = 
+12-20 14:37:11.830  1048  1379 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:37:11.830  1048  1379 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:37:11.830  1048  1379 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:37:11.840  1048  5992 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:37:11.840  1048  5992 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:37:11.840  1048  5992 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:37:11.860 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:37:11.860 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:37:11.860 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:37:11.860 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:37:11.940   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:37:11.940   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:37:12.210   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:37:12.740   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:37:12.960   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:37:14.950   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:37:17.010   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:37:17.210   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:37:17.310   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:37:17.320   133   166 E BufferQueue: [com.esbook.reader/com.esbook.reader.activity.ActBookCover] dequeueBuffer: can't dequeue multiple buffers without setting the buffer count
+12-20 14:37:17.960   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:37:18.900   133   893 E BufferQueue: [com.esbook.reader/com.esbook.reader.activity.ActSearchResult] dequeueBuffer: can't dequeue multiple buffers without setting the buffer count
+12-20 14:37:19.570 28405 28405 I chromium: [INFO:CONSOLE(0)] "Document was loaded from Application Cache with manifest http://mobads.baidu.com/ads/ads.appcache", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:37:19.570 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache Checking event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:37:19.570 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache Checking event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:37:19.570 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache Checking event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:37:19.570 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache Checking event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:37:19.780  1048  1156 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:37:19.780  1048  1156 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:37:19.780  1048  1156 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:37:19.790  1048  5991 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:37:19.790  1048  5991 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:37:19.790  1048  5991 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:37:19.790  1048  1379 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:37:19.800  1048  1379 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:37:19.800  1048  1379 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:37:19.810  1048  5992 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:37:19.810  1048  5992 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:37:19.810  1048  5992 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:37:19.820 28405 28602 I Mobads SDK:  Request_ID = 72b7303961cf6bf0dc3abadca3759c49; AppID = a9b34ae9; AdPlaceId = 
+12-20 14:37:19.830  1048  1156 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:37:19.830  1048  1156 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:37:19.830  1048  1156 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:37:19.830  1048  5991 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:37:19.840  1048  5991 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:37:19.840  1048  5991 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:37:19.880 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:37:19.880 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:37:19.880 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:37:20.960   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:37:23.970   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:37:26.990   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:37:27.460  7845  7845 E msg     : command
+12-20 14:37:27.520  2132  3516 I tnet-jni: 246 - [spdyPingRecvCallback] - 
+12-20 14:37:27.520  2132  3516 I tnet-jni: 246 - [SpdySessionCallBack.spdyPingRecvCallback] - org.android.spdy.SpdySession@42202d10
+12-20 14:37:30.010   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:37:30.100   846  2018 W TemperatureMonitor2: Enter 45'C at 2884:36
+12-20 14:37:33.020   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:37:36.030   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:37:39.040   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:37:42.060   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:37:45.070   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:37:48.080   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:37:49.430 28405 28405 W AwContents: nativeOnDraw failed; clearing to background color.
+12-20 14:37:50.040 28405 28405 I chromium: [INFO:CONSOLE(0)] "Document was loaded from Application Cache with manifest http://mobads.baidu.com/ads/ads.appcache", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:37:50.040 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache Checking event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:37:50.040 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache Checking event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:37:50.040 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache Checking event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:37:50.250  1048  9574 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:37:50.250  1048  9574 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:37:50.250  1048  9574 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:37:50.260  1048  1177 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:37:50.260  1048  1177 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:37:50.260  1048  1177 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:37:50.260  1048  1059 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:37:50.260  1048  1059 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:37:50.270  1048  1059 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:37:50.280  1048  1156 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:37:50.280  1048  1156 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:37:50.280  1048  1156 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:37:50.290 28405 28602 I Mobads SDK:  Request_ID = 4828d257f2070d3ea2874874d2670c15; AppID = a9b34ae9; AdPlaceId = 
+12-20 14:37:50.290  1048  9574 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:37:50.300  1048  9574 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:37:50.300  1048  9574 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:37:50.300  1048  1177 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:37:50.300  1048  1177 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:37:50.300  1048  1177 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:37:50.320 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:37:50.320 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:37:50.320 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:37:50.320 28405 28405 W AwContents: nativeOnDraw failed; clearing to background color.
+12-20 14:37:50.340 28405 28405 W AwContents: nativeOnDraw failed; clearing to background color.
+12-20 14:37:50.360 28405 28405 W AwContents: nativeOnDraw failed; clearing to background color.
+12-20 14:37:51.080   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:37:54.090   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:37:55.130 28405 28405 I Choreographer: Skipped 146 frames!  The application may be doing too much work on its main thread.
+12-20 14:37:55.220   133   168 E BufferQueue: [com.esbook.reader/com.esbook.reader.activity.ActBookCover] dequeueBuffer: can't dequeue multiple buffers without setting the buffer count
+12-20 14:37:55.370   574   587 I ActivityManager: Displayed com.esbook.reader/.activity.ActBookCover: +2s700ms
+12-20 14:37:57.100   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:37:58.400   133   168 E BufferQueue: [com.esbook.reader/com.esbook.reader.activity.ActBookCover] dequeueBuffer: can't dequeue multiple buffers without setting the buffer count
+12-20 14:38:00.130   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:38:01.530   574   834 W System.err: java.lang.IllegalArgumentException
+12-20 14:38:01.530   574   834 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:38:01.530   574   834 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:38:01.530   574   834 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:38:01.530   574   834 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:38:01.530   574   697 W System.err: java.lang.IllegalArgumentException
+12-20 14:38:01.530   574   697 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:38:01.530   574   697 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:38:01.530   574   697 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:38:01.530   574   697 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:38:01.530   574   857 W System.err: java.lang.IllegalArgumentException
+12-20 14:38:01.530   574   857 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:38:01.530   574   857 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:38:01.530   574   857 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:38:01.530   574   857 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:38:01.530   574   626 W System.err: java.lang.IllegalArgumentException
+12-20 14:38:01.530   574   626 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:38:01.530   574   626 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:38:01.530   574   626 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:38:01.530   574   626 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:38:01.530   574   584 W System.err: java.lang.IllegalArgumentException
+12-20 14:38:01.540   574   584 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:38:01.540   574   584 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:38:01.540   574   584 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:38:01.540   574   584 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:38:01.540   574 16011 W System.err: java.lang.IllegalArgumentException
+12-20 14:38:01.540   574 16011 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:38:01.540   574 16011 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:38:01.540   574 16011 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:38:01.540   574 16011 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:38:01.540   574   876 W System.err: java.lang.IllegalArgumentException
+12-20 14:38:01.540   574   876 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:38:01.540   574   876 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:38:01.540   574   876 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:38:01.540   574   876 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:38:01.540   574  8874 W System.err: java.lang.IllegalArgumentException
+12-20 14:38:01.540   574  8874 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:38:01.540   574  8874 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:38:01.540   574  8874 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:38:01.540   574  8874 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:38:01.540   574   704 W System.err: java.lang.IllegalArgumentException
+12-20 14:38:01.540   574   704 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:38:01.540   574   704 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:38:01.540   574   704 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:38:01.540   574   704 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:38:01.540   574   875 W System.err: java.lang.IllegalArgumentException
+12-20 14:38:01.540   574   875 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:38:01.540   574   875 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:38:01.540   574   875 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:38:01.540   574   875 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:38:01.550   574 10228 W System.err: java.lang.IllegalArgumentException
+12-20 14:38:01.550   574 10228 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:38:01.550   574 10228 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:38:01.550   574 10228 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:38:01.550   574 10228 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:38:01.550   574   855 W System.err: java.lang.IllegalArgumentException
+12-20 14:38:01.550   574   855 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:38:01.550   574   855 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:38:01.550   574   855 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:38:01.550   574   855 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:38:01.550   574   585 W System.err: java.lang.IllegalArgumentException
+12-20 14:38:01.550   574   585 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:38:01.550   574   585 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:38:01.550   574   585 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:38:01.550   574   585 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:38:01.660  1048  1058 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:38:01.660  1048  1058 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:38:01.660  1048  1058 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:38:01.690  1048  9574 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:38:01.690  1048  9574 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:38:01.690  1048  9574 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:38:01.710  1048  1177 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:38:01.720  1048  1177 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:38:01.720  1048  1177 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:38:01.880  1048  9574 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:38:01.880  1048  9574 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:38:01.880  1048  9574 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:38:01.970   574   704 W System.err: java.lang.IllegalArgumentException
+12-20 14:38:01.970   574   704 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:38:01.970   574   704 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:38:01.970   574   704 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:38:01.970   574   704 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:38:01.970   574   875 W System.err: java.lang.IllegalArgumentException
+12-20 14:38:01.970   574   875 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:38:01.970   574   875 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:38:01.970   574   875 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:38:01.970   574   875 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:38:01.970   574 10228 W System.err: java.lang.IllegalArgumentException
+12-20 14:38:01.970   574 10228 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:38:01.970   574 10228 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:38:01.970   574 10228 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:38:01.970   574 10228 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:38:01.970   574  8874 W System.err: java.lang.IllegalArgumentException
+12-20 14:38:01.970   574  8874 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:38:01.970   574  8874 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:38:01.970   574  8874 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:38:01.970   574  8874 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:38:01.970   574  9953 W System.err: java.lang.IllegalArgumentException
+12-20 14:38:01.970   574  9953 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:38:01.970   574  9953 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:38:01.970   574  9953 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:38:01.970   574  9953 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:38:01.970   574   855 W System.err: java.lang.IllegalArgumentException
+12-20 14:38:01.970   574   855 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:38:01.970   574   855 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:38:01.970   574   855 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:38:01.970   574   855 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:38:01.970   574   835 W System.err: java.lang.IllegalArgumentException
+12-20 14:38:01.980   574   835 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:38:01.980   574   835 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:38:01.980   574   835 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:38:01.980   574   835 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:38:01.980   574   584 W System.err: java.lang.IllegalArgumentException
+12-20 14:38:01.980   574   584 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:38:01.980   574   584 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:38:01.980   574   584 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:38:01.980   574   584 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:38:01.980   574   585 W System.err: java.lang.IllegalArgumentException
+12-20 14:38:01.980   574   585 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:38:01.980   574   585 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:38:01.980   574   585 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:38:01.980   574   585 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:38:01.980   574   834 W System.err: java.lang.IllegalArgumentException
+12-20 14:38:01.980   574   834 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:38:01.980   574   834 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:38:01.980   574   834 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:38:01.980   574   834 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:38:01.980   574   626 W System.err: java.lang.IllegalArgumentException
+12-20 14:38:01.980   574   626 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:38:01.980   574   626 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:38:01.980   574   626 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:38:01.980   574   626 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:38:01.980   574   857 W System.err: java.lang.IllegalArgumentException
+12-20 14:38:01.980   574   857 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:38:01.980   574   857 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:38:01.980   574   857 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:38:01.980   574   857 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:38:01.980   574   876 W System.err: java.lang.IllegalArgumentException
+12-20 14:38:01.980   574   876 W System.err: 	at com.android.server.MountService.getVolumeState(MountService.java:1718)
+12-20 14:38:01.980   574   876 W System.err: 	at android.os.storage.IMountService$Stub.onTransact(IMountService.java:943)
+12-20 14:38:01.980   574   876 W System.err: 	at android.os.Binder.execTransact(Binder.java:404)
+12-20 14:38:01.980   574   876 W System.err: 	at dalvik.system.NativeStart.run(Native Method)
+12-20 14:38:02.380  1048  1177 I HwSystemManager: HoldService:In holdservice, to get pending intent:Intent { act=com.huawei.permissionmanager.notification.allow (has extras) }
+12-20 14:38:02.380  1048  1377 I HwSystemManager: HoldService:In holdservice, to get pending intent:Intent { act=com.huawei.permissionmanager.notification.refuse (has extras) }
+12-20 14:38:03.190   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:38:05.110  1048  1177 I HwSystemManager: HoldService:In holdservice, to get pending intent:Intent { act=com.huawei.permissionmanager.notification.allow (has extras) }
+12-20 14:38:05.120  1048  1377 I HwSystemManager: HoldService:In holdservice, to get pending intent:Intent { act=com.huawei.permissionmanager.notification.refuse (has extras) }
+12-20 14:38:06.200   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:38:07.150  1048  1379 I HwSystemManager: HoldService:In holdservice, to get pending intent:Intent { act=com.huawei.permissionmanager.notification.allow (has extras) }
+12-20 14:38:07.150  1048  5992 I HwSystemManager: HoldService:In holdservice, to get pending intent:Intent { act=com.huawei.permissionmanager.notification.refuse (has extras) }
+12-20 14:38:09.210   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:38:09.330  1048  1379 I HwSystemManager: HoldService:In holdservice, to get pending intent:Intent { act=com.huawei.permissionmanager.notification.allow (has extras) }
+12-20 14:38:09.330  1048  5992 I HwSystemManager: HoldService:In holdservice, to get pending intent:Intent { act=com.huawei.permissionmanager.notification.refuse (has extras) }
+12-20 14:38:10.320   846  2018 W TemperatureMonitor2: Enter 46'C at 2885:16
+12-20 14:38:10.320   846  2018 W TemperatureMonitor2: Enter 47'C at 2885:16
+12-20 14:38:10.790  1048  1048 E HwSystemManager: :ACTION_BATTERY_CHANGED pluged =2
+12-20 14:38:10.790  1048  1048 E HwSystemManager: BgPowerManagerService: conusmPower = 1 result = 9 flag1 =false flag2 = false
+12-20 14:38:10.800   846   846 E TemperatureMonitor2: BatteryTemp=330
+12-20 14:38:11.250  1048  9574 I HwSystemManager: HoldService:In holdservice, to get pending intent:Intent { act=com.huawei.permissionmanager.notification.allow (has extras) }
+12-20 14:38:11.250  1048  1059 I HwSystemManager: HoldService:In holdservice, to get pending intent:Intent { act=com.huawei.permissionmanager.notification.refuse (has extras) }
+12-20 14:38:11.290  1048  9574 I HwSystemManager: HoldService:In holdservice, to get pending intent:Intent { act=com.huawei.permissionmanager.notification.allow (has extras) }
+12-20 14:38:11.300  1048  1059 I HwSystemManager: HoldService:In holdservice, to get pending intent:Intent { act=com.huawei.permissionmanager.notification.refuse (has extras) }
+12-20 14:38:12.220   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:38:15.220 28405 28405 I dalvikvm-heap: Grow heap (frag case) to 28.638MB for 1704976-byte allocation
+12-20 14:38:15.220   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:38:15.820   133   893 E BufferQueue: [com.esbook.reader/com.esbook.reader.activity.ActNovel] dequeueBuffer: can't dequeue multiple buffers without setting the buffer count
+12-20 14:38:16.370 28405 28405 I Choreographer: Skipped 34 frames!  The application may be doing too much work on its main thread.
+12-20 14:38:16.430   574   587 I ActivityManager: Displayed com.esbook.reader/.activity.ActNovel: +2s258ms
+12-20 14:38:16.430 28405 28405 E isCanAllowNet: netType:5
+12-20 14:38:16.590 28405 28405 I chromium: [INFO:CONSOLE(0)] "Document was loaded from Application Cache with manifest http://mobads.baidu.com/ads/ads.appcache", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:38:16.590 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache Checking event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:38:16.590 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache Checking event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:38:16.590 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache Checking event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:38:16.830  1048  1377 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:38:16.830  1048  1377 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:38:16.830  1048  1377 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:38:16.840 28405 28405 W AwContents: nativeOnDraw failed; clearing to background color.
+12-20 14:38:16.840  1048  1379 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:38:16.840  1048  1379 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:38:16.840  1048  1379 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:38:16.850  1048  1058 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:38:16.850  1048  1058 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:38:16.850  1048  1058 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:38:16.870  1048  9574 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:38:16.870  1048  9574 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:38:16.870  1048  9574 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:38:16.880 28405 28602 I Mobads SDK:  Request_ID = fde89e934fe4095ad6ebdebe863f4e89; AppID = a9b34ae9; AdPlaceId = 
+12-20 14:38:16.880  1048  1377 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:38:16.890  1048  1377 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:38:16.890  1048  1377 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:38:16.890  1048  1379 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:38:16.890  1048  1379 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:38:16.890  1048  1379 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:38:16.910 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:38:16.910 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:38:16.910 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:38:18.240   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:38:20.090   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:38:20.620   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:38:20.670   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:38:20.710   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:38:21.240   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:38:21.260   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:38:21.770   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:38:22.270   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:38:22.730   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:38:23.110   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:38:23.840   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:38:24.250   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:38:24.310   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:38:24.630   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:38:25.090   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:38:25.200   133  1046 E BufferQueue: [com.esbook.reader/com.esbook.reader.activity.ActNovel] dequeueBuffer: can't dequeue multiple buffers without setting the buffer count
+12-20 14:38:26.760   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:38:26.810   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:38:27.220   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:38:27.250   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:38:28.560   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:38:30.240   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:38:30.270   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:38:30.420   846  2018 W TemperatureMonitor2: Enter 48'C at 2885:36
+12-20 14:38:30.560   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:38:30.620   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:38:33.230   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:38:33.290   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:38:33.830   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:38:34.170   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:38:34.240   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:38:34.560   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:38:34.610   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:38:35.260   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:38:35.640   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:38:36.300   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:38:36.310   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:38:36.460   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:38:37.040   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:38:37.090   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:38:37.160   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:38:38.340   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:38:38.520   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:38:38.870   133   133 E v_hwc   : overlay_compose_check_ddr_freq: K3FB_OVC_CHECK_DDR_FREQ failed!
+12-20 14:38:38.900   133   893 E BufferQueue: [com.esbook.reader/com.esbook.reader.activity.ActBookCover] dequeueBuffer: can't dequeue multiple buffers without setting the buffer count
+12-20 14:38:39.300   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:38:40.850   846   846 E TemperatureMonitor2: BatteryTemp=330
+12-20 14:38:40.870  1048  1048 E HwSystemManager: :ACTION_BATTERY_CHANGED pluged =2
+12-20 14:38:42.310   574   618 E WifiHW  : wifi_send_command ret:0
+12-20 14:38:43.250   133   168 E BufferQueue: [com.esbook.reader/com.esbook.reader.activity.ActSearchResult] dequeueBuffer: can't dequeue multiple buffers without setting the buffer count
+12-20 14:38:43.370 28405 28405 I Choreographer: Skipped 63 frames!  The application may be doing too much work on its main thread.
+12-20 14:38:43.980 28405 28405 W AwContents: nativeOnDraw failed; clearing to background color.
+12-20 14:38:44.530 28405 28405 I chromium: [INFO:CONSOLE(0)] "Document was loaded from Application Cache with manifest http://mobads.baidu.com/ads/ads.appcache", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:38:44.530 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache Checking event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:38:44.530 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache Checking event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:38:44.590  1048  5992 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:38:44.590  1048  5992 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:38:44.590  1048  5992 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:38:44.590  1048  5991 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:38:44.600  1048  5991 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:38:44.600  1048  5991 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:38:44.600  1048  1059 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:38:44.600  1048  1059 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:38:44.600  1048  1059 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:38:44.620  1048  1377 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:38:44.620  1048  1377 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:38:44.620  1048  1377 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:38:44.630 28405 28602 I Mobads SDK:  Request_ID = a3475945d9611269d6833e1de9cc8747; AppID = a9b34ae9; AdPlaceId = 
+12-20 14:38:44.630  1048  5992 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:38:44.640  1048  5992 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:38:44.640  1048  5992 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:38:44.640  1048  5991 I HwSystemManager: HoldService:mRequestCount =  1
+12-20 14:38:44.640  1048  5991 I HwSystemManager: HoldService:preHoldShow start!
+12-20 14:38:44.640  1048  5991 I HwSystemManager: HoldService:The prePermissionType is: 1
+12-20 14:38:44.660 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:38:44.660 28405 28405 I chromium: [INFO:CONSOLE(0)] "Application Cache NoUpdate event", source: http://mobads.baidu.com/ads/index.htm (0)
+12-20 14:38:44.730 28405 28405 W AwContents: nativeOnDraw failed; clearing to background color.
+12-20 14:38:44.740 28405 28405 W AwContents: nativeOnDraw failed; clearing to background color.
+12-20 14:38:44.760 28405 28405 W AwContents: nativeOnDraw failed; clearing to background color.
+12-20 14:38:44.770 28405 28405 W AwContents: nativeOnDraw failed; clearing to background color.
+12-20 14:38:45.320   574   618 E WifiHW  : wifi_send_command ret:0

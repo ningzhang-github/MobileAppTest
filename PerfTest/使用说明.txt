@@ -1,0 +1,6 @@
+1. 建立report目录
+>mkdir demo_report
+2. 运行脚本
+>python appPerfRecorder.py -p com.yourApp.packageName -f .\demo_report\demo.csv
+3. 生成pdf报告
+>python ReportGenerator.py -folder .\demo_report -pdf .\demo_report\demo.pdf
