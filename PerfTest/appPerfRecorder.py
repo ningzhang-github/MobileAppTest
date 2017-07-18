@@ -1,6 +1,8 @@
 #!/bin/env python
 #encoding: UTF-8
+
 #初版作者：张宁@easou
+#修改者：oscar@easou
 
 from time import sleep
 from adbpy.adb import Adb
@@ -50,6 +52,7 @@ class AppUnderTest(object):
             listProcessInfo.sort(key=lambda x:x[1]) #对列表中第二个关键字也就是进程名进行排序，保证主进程所在的子list是listProcessInfo的第0个元素
         else:
             raise SystemExit("App's process is not found!")
+        
         print '[Debug]:ProcessInfo\n', listProcessInfo
         return listProcessInfo
 
@@ -63,7 +66,6 @@ class AppUnderTest(object):
             if len(listProcessInfo) > len(self.listProcessInfo):
                 tempList = [elem for elem in listProcessInfo if elem not in self.listProcessInfo]
                 self.listProcessInfo.extend(tempList)
-                # print '[debug]---',tempList
                 raise myUtil.FoundNewProcessException
             elif len(listProcessInfo) == len(self.listProcessInfo):
                 tempList = [elem for elem in listProcessInfo if elem not in self.listProcessInfo]
@@ -79,6 +81,7 @@ class AppUnderTest(object):
                 raise myUtil.ProcessChangedException
             else:
                 pass
+
 
     def get_networkTraffic(self):
         """#基于UID获取App的网络流量的方法
@@ -144,7 +147,6 @@ class AppUnderTest(object):
         listProcMemUsage = []
         if self.deviceAPILevel >= 14:  #安卓4.0及上的，用这种逻辑
             for elem in self.listProcessInfo:
-                print '[Debug]:ProcessID---',elem[0]
                 strTemp = self.adb.shell("dumpsys meminfo {0}|{1} grep 'TOTAL'".format(elem[0],BUSYBOX_PATH),timeout=ADB_TIMEOUT)
                 try:
                     strSubProcMemUsage = strTemp.split()[1].encode('UTF-8')
